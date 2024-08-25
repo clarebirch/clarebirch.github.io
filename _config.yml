@@ -3,7 +3,7 @@ author: Clare Birch # name of site's author
 email: cb@clarebir.ch # email of site's author
 url: https://clarebirch.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
-description: > # description of the site (multiple lines allowed)
+description: >- # description of the site (multiple lines allowed)
   this is my main node on the internet
 twitter_username: clarejtbirch
 github_username: clarebirch
