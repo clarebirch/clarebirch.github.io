@@ -35,8 +35,10 @@ entries:
     post_list:
       limit: 5
       show_more: true
-      show_more_text: archive...
+      show_more_text: see all
       show_more_url: archive.html
+  - title: my public personal library
+    url: library.html
 #  - title: rss
 #    url: feed.xml
   
