@@ -67,6 +67,7 @@ a:hover {
   color: var(--accent4);
   font-style: italic;
   text-decoration: none;
+  transition: color 0.3ms;
 }
 
 .post-meta { text-align: right; }
