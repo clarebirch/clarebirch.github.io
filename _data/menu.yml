@@ -52,3 +52,5 @@ entries:
         url: https://www.linkedin.com/in/clarebirch42/
       - title: spotify
         url: https://open.spotify.com/user/1236441987
+      - title: my email, which is cb at this domain
+  - title: this site is built with jekyll on github pages and uses a modified version of <a href="https://github.com/riggraz/no-style-please"target="_blank" rel="noopener noreferrer">no-style-please by riggraz</a> :)
