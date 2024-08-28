@@ -13,8 +13,7 @@ He thought I would benefit from Unlearning Perfectionism (am I so transparent?).
 
 Sans the navel gazing you might expect here, I will say I am focusing on excellence rather than perfection currently, with some structure along the lines of:
 
-One alternative with a similar flavor is excellence, which differs in two respects:
-
+> One alternative with a similar flavor is excellence, which differs in two respects:
 > 1. Where perfectionism focuses on achieving, excellence focuses on pursuing. Success and failure aren’t ever in our full control. All we can control is what we choose to do right now, in this moment. Our attention shifts from outcomes to process.
 > 2. Where perfectionism focuses on fixed outcomes, excellence focuses on better outcomes. Any real situation can always be improved. Since there is no perfect outcome, perfection is impossible.
 
