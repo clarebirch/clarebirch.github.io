@@ -25,12 +25,15 @@ entries:
     entries:
       - title: added some momentum at nonprofit DeadlyScience as first employee
         url: https://deadlyscience.org.au/
+      - title: co-led and co-created the 2021 Harry Messel International Science School's chemistry stream with a workshop, "Is the universe ruled by chaos?"
+        url: https://x.com/clarejtbirch/status/1414850606032850948
       - title: did my undergrad in chemistry and mathematics, with hons in quantum simulation under Ivan Kassal
         entries:
           - title: Ivan is a great researcher and supervisor with a wonderful group
             url: https://www.kassal.group/
           - title: a paper related to my hons work
             url: https://arxiv.org/abs/2012.01852
+      - title: was a high school teachers' aide in learning support
   - title: blog posts
     post_list:
       limit: 5
