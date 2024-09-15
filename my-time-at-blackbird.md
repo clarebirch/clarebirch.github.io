@@ -34,8 +34,8 @@ Companies I was involved with include:
 - [Cosmos Magazine](https://cosmosmagazine.com/people/culture/blackbird-scientist-in-residence/)'s article "Why would a company need a scientist-in-residence?" from sometime around when I started.
 
 ### Some choice quotes from founders with whom I worked
-"Thank you for how supportive and collaborative you've been. I still think the input you gave us in terms of [a key fundraising item] was some of the best feedback we've received in ages."
-"For us, [selecting a lead for] this round came down to relationship, and you were a big part of that."
-"You have been a pleasure to work with, but more importantly you are a great friend and a wonderful and wise person to talk to."
-"It's such a pleasure to work with a person who is brilliantly smart as well as effortlessly witty...truly one of the best executors we work with."
-"Clare is one of the best hires Blackbird has made."
+- "Thank you for how supportive and collaborative you've been. I still think the input you gave us in terms of [a key fundraising item] was some of the best feedback we've received in ages."
+- "For us, [selecting a lead for] this round came down to relationship, and you were a big part of that."
+- "You have been a pleasure to work with, but more importantly you are a great friend and a wonderful and wise person to talk to."
+- "It's such a pleasure to work with a person who is brilliantly smart as well as effortlessly witty...truly one of the best executors we work with."
+- "Clare is one of the best hires Blackbird has made."
