@@ -1,16 +1,12 @@
 ---
 layout: page
-title: A quick summary of my time at Blackbird
+title: A brief summary of my time at Blackbird
 ---
 I was an Associate at [Blackbird](https://blackbird.vc) from 2021 to 2024. In that time, I:
 - Sourced 3 successful new investments, 
-- Ran point on 21 successful new and follow-on investments amounting to >$100M investment from pre-seed to post-Series D, and
-- Did some work with LPs (e.g. for coinvestment opportunities), and portfolio support things (e.g. board shadowing work and fundraising support)
-- Started and ran [Foundry]()
-
-Some media that documents my time at Blackbird:
-- [Capital Brief](https://www.capitalbrief.com/article/blackbirds-scientist-in-residence-clare-birch-takes-flight-633885b5-0b03-4356-980b-c9b9e71d6822/preview/)'s article "Blackbird's deep tech doyenne Clare Birch takes flight" on my departure---"A well-liked and highly regarded Blackbird investor who served on Innovation Minister Ed Husic's quantum computing advisory board is leaving the firm for pastures new." (embarrassing!)
-- [Cosmos Magazine](https://cosmosmagazine.com/people/culture/blackbird-scientist-in-residence/)'s article "Why would a company need a scientist-in-residence?" from sometime around when I started.
+- Ran point on 21 successful new and follow-on investments amounting to >$100M investment from pre-seed to post-Series D,
+- Did some work with LPs (e.g. for coinvestment opportunities), and portfolio support things (e.g. board shadowing work and fundraising support), and
+- Started and ran [Foundry](https://clarebir.ch/foundry) for a couple of cohorts.
 
 Companies I was involved with include:
 - [PsiQuantum](https://psiquantum.com)
@@ -32,6 +28,10 @@ Companies I was involved with include:
 - [Cortical Labs](https://corticallabs.com/)
 - [VeVe](https://www.veve.me/)
 - [Soul Æether](https://x.com/soulaether_?lang=en)
+
+### Some media that documents my time at Blackbird:
+- [Capital Brief](https://www.capitalbrief.com/article/blackbirds-scientist-in-residence-clare-birch-takes-flight-633885b5-0b03-4356-980b-c9b9e71d6822/preview/)'s article "Blackbird's deep tech doyenne Clare Birch takes flight" on my departure---"A well-liked and highly regarded Blackbird investor who served on Innovation Minister Ed Husic's quantum computing advisory board is leaving the firm for pastures new." (embarrassing!)
+- [Cosmos Magazine](https://cosmosmagazine.com/people/culture/blackbird-scientist-in-residence/)'s article "Why would a company need a scientist-in-residence?" from sometime around when I started.
 
 ### Some choice quotes from founders with whom I worked
 "Thank you for how supportive and collaborative you've been. I still think the input you gave us in terms of [a key fundraising item] was some of the best feedback we've received in ages."
