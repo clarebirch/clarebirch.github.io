@@ -1,0 +1,27 @@
+---
+layout: page
+title: A public list of learnings from my quarter-life crisis
+---
+Originally posted: 17 September 2024
+Last updated: 17 September 2024
+
+1. I have strayed quite far from myself and my values over the past few years. I think this opinion will swing back somewhat---bit reactive---but there is truth to it, and it has taken a toll. 
+2. I have broadened my horizons and "grown up", but I'm also not sure I've felt a real emotion in ~four years. 
+3. Probably have been creatively dead for four years. 
+4. I've compromised on things I wish I hadn't, including intellectual honesty and integrity. 
+5. Figuring this out is going to take more than a couple of weeks. 
+6. I can't navel-gaze my way to a conclusion.
+7. I have some inkling of things I'm interested in and that I think might be fulfilling but I need to try more stuff and search a bit broadly. 
+8. Travel is going to have to be part of this.
+9. I miss chemistry (vague) and I miss _the idea of_ doing maths (vague). I like making stuff. 
+10. I like working with some people, but not in general!!! I wonder what kinds of people I actually like working with. 
+11. I need to be less critical of fledgling ideas and exploration. This applies to others and to my internal dialogue. I am killing delicate little selves before they can be anything.
+12. To the above, I need to take the pressure off myself. 
+13. I want to _achieve_ and I think this is a good thing, but I think I need to be more careful of my desire for _glory_.
+14. I want to achieve *for something greater than myself*
+15. I want to find work with which I am *intimately connected*---fully engrossed in the thing, [looking along the beam](http://ktf.cuni.cz/~linhb7ak/Meditation-in-a-Toolshed.pdf)
+16. I want to learn like a motherfucker. I feel dead without it. 
+17. I feel better when I am out five nights pw at variations on very engrossing musical and visual things. Jazz gigs are the best example of this (so far).
+18. My memory is a leaky bucket right now and I'd like to stop that.
+19. Gotta stop trying to impress.
+20. I don't think the career ladder is a worthwhile thing for me. Promotion pathways and performance matrices are useful but nauseating. 

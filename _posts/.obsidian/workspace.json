@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "8e1d9fca0cd0a3e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "74863636aad3a9d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0c9163609cbe496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-04-02-unlearning-perfectionism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e50c4a0091017abc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee1a5245814723fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae8c867c12f10baf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09537b1249908864",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c182ab382de688fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f146367ee17df5e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ddd27922f8f0d39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d843eb9685c289a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-04-02-unlearning-perfectionism.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdb0b09fd0b9f864",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-04-02-unlearning-perfectionism.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "629e208caf6ce272",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ab76825d961a4eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-04-02-unlearning-perfectionism.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e0c9163609cbe496",
+  "lastOpenFiles": [
+    "2024-10-17-A-Living-List-of-Self-Discovery.md",
+    "2022-04-02-unlearning-perfectionism.md"
+  ]
+}

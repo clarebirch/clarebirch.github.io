@@ -5,6 +5,9 @@ entries:
   - title: things I'm doing (at September 2024)
     entries:
       - title: doing some soul-searching/filling the proverbial cup in NYC
+        entries:
+          - title: you can follow along with my quarter-life crisis reflections and lessons here
+            url: quarter-life-crisis.html
       - title: helping the Australian Government build its quantum industry as a member of the National Quantum Advisory Committee
         url: https://www.minister.industry.gov.au/ministers/husic/media-releases/national-quantum-advisory-committee
         entries:
