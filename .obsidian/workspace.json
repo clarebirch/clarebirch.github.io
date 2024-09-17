@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_site/README.md",
+                "file": "quarter-life-crisis.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_site/README.md",
+                "file": "quarter-life-crisis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_site/README.md",
+                "file": "quarter-life-crisis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_site/README.md"
+                "file": "quarter-life-crisis.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "0d258860fe6443d9",
   "lastOpenFiles": [
+    "_site/README.md",
     "README.md",
     "quarter-life-crisis.md",
     "my-time-at-blackbird.md"

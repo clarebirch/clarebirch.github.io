@@ -3,8 +3,10 @@ layout: page
 title: A public list of learnings from my quarter-life crisis
 ---
 Originally posted: 17 September 2024
+
 Last updated: 17 September 2024
 
+This is a living (ie. incomplete, being edited, updated) list of reflections and lessons I'm learning though my quarter-life crisis:
 1. I have strayed quite far from myself and my values over the past few years. I think this opinion will swing back somewhat---bit reactive---but there is truth to it, and it has taken a toll. 
 2. I have broadened my horizons and "grown up", but I'm also not sure I've felt a real emotion in ~four years. 
 3. Probably have been creatively dead for four years. 
