@@ -7,7 +7,6 @@ Originally posted: 17 September 2024
 Last updated: 17 September 2024
 
 This is a living (ie. incomplete, being edited, updated) list of reflections, lessons, advice, and experiments through my quarter-life crisis.
-
 #### Reflections
 1. I have strayed quite far from myself and my values over the past few years. I think this opinion will swing back somewhat---bit reactive---but there is truth to it, and it has taken a toll. 
 2. I have broadened my horizons and "grown up", but I'm also not sure I've felt a real emotion in ~four years. 
@@ -34,7 +33,7 @@ This is a living (ie. incomplete, being edited, updated) list of reflections, le
 
 #### Experiments
 1. Going to New York (njörk)
-	1. Spending many hours in museums at a time:
+	1. Spending many hours in museums and galleries at a time:
 		1. [Neue Galerie](https://www.neuegalerie.org/)
 		2. [MoMA](https://www.moma.org/)
 		3. [Hauser & Wirth](https://www.hauserwirth.com/)
@@ -53,14 +52,15 @@ This is a living (ie. incomplete, being edited, updated) list of reflections, le
 		2. [Sleep No More](https://mckittrickhotel.com/events/sleep-no-more/)
 	3. Seeing/listening to/experiencing (?) good jazz. So far: 
 		1. Benny Benack Quintet ([Benny Benack III](https://www.bennybenackjazz.com/) (t), [Sam Dillon](http://www.samdillonmusic.com/) (s), [Rasmus Sørensen](https://www.rasmussorensen.com/) (p), [Paul Gill](https://www.allaboutjazz.com/musicians/paul-gill/) (b), [Daniel Dufour](https://www.danieldufour.com/) (d)) @ [Smalls](https://www.smallslive.com/)
-		2. Noah Halpern Quartet ([Noah Halpern](https://www.noahhalpernmusic.com/) (t), [Rasmus Sørensen](https://www.rasmussorensen.com/) (p), Gervis Myles (b), [Domo Branch](https://www.domobranch.com/) (d)) ft [Georgia Heers](https://www.instagram.com/georgiaheers/reels/?__d=1) @ [Dizzy's](https://jazz.org/dizzys/) LNS
+		2. Noah Halpern Quartet ([Noah Halpern](https://www.noahhalpernmusic.com/) (t), [Rasmus Sørensen](https://www.rasmussorensen.com/) (p), [Gervis Myles](https://www.instagram.com/moneysignlavemoneysignlut) (b), [Domo Branch](https://www.domobranch.com/) (d)) ft [Georgia Heers](https://www.instagram.com/georgiaheers/reels/?__d=1) @ [Dizzy's](https://jazz.org/dizzys/) LNS
 		3. Tardo Hammer Trio ([Tardo Hammer](https://tardohammer.com/) (p), [Lee Hudson](https://www.smallslive.com/artists/135-lee-hudson/) (b), [Steve Williams](https://www.allaboutjazz.com/musicians/steve-williams/) (d)) @ [Ornithology](https://www.ornithologyjazzclub.com/)
 	4. Receive gut-wrenching insights into self from multiple sources and finding good questions to answer
 		1. How did studying chemistry / mathematics change you?
 		2. What is the pitch for science? What is maths like?
 		3. Why do you want to be so much?
 	5. Partying ([Brooklyn Mirage](https://www.avant-gardner.com/the-brooklyn-mirage))
-	6. Walking and writing lots
+	6. Going to Twitter meetups ([coldhealing's 70k follower celebration](https://x.com/clarejtbirch/status/1832857612762689858))
+	7. Walking and writing lots
 2. Cleaning up the media diet: 
 	1. Cut down slop (farewell streaming services, farewell bubblegum pop) that was making me feel like mush
 	2. Unfollowing and blocking accounts as I come across them on socials (there's going to be a lot of blocking of grindset tech people lol)
