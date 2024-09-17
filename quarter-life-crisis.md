@@ -15,15 +15,17 @@ This is a living (ie. incomplete, being edited, updated) list of reflections and
 6. I can't navel-gaze my way to a conclusion.
 7. I have some inkling of things I'm interested in and that I think might be fulfilling but I need to try more stuff and search a bit broadly. 
 8. Travel is going to have to be part of this.
-9. I miss chemistry (vague) and I miss _the idea of_ doing maths (vague). I like making stuff. 
-10. I like working with some people, but not in general!!! I wonder what kinds of people I actually like working with. 
-11. I need to be less critical of fledgling ideas and exploration. This applies to others and to my internal dialogue. I am killing delicate little selves before they can be anything.
-12. To the above, I need to take the pressure off myself. 
-13. I want to _achieve_ and I think this is a good thing, but I think I need to be more careful of my desire for _glory_.
-14. I want to achieve *for something greater than myself*
-15. I want to find work with which I am *intimately connected*---fully engrossed in the thing, [looking along the beam](http://ktf.cuni.cz/~linhb7ak/Meditation-in-a-Toolshed.pdf)
-16. I want to learn like a motherfucker. I feel dead without it. 
-17. I feel better when I am out five nights pw at variations on very engrossing musical and visual things. Jazz gigs are the best example of this (so far).
-18. My memory is a leaky bucket right now and I'd like to stop that.
-19. Gotta stop trying to impress.
-20. I don't think the career ladder is a worthwhile thing for me. Promotion pathways and performance matrices are useful but nauseating. 
+9. I miss chemistry (vague) and I miss _the idea of_ doing maths (vague).  
+10. The things I do having a sense of purpose or impact is important to me. I angst when I do lots of work *for the sake of it*. 
+11. Making a new thing and putting it out into the world is very satisfying. I get a helluva kick out of making good new things that people enjoy or find challenging. 
+12. I like working with some people, but not in general!!! I wonder what kinds of people I actually like working with. 
+13. I need to be less critical of fledgling ideas and exploration. This applies to others and to my internal dialogue. I am killing delicate little selves before they can be anything.
+14. To the above, I need to take the pressure off myself. 
+15. I want to _achieve_ and I think this is a good thing, but I think I need to be more careful of my desire for _glory_.
+16. I want to achieve *for something greater than myself*
+17. I want to find work with which I am *intimately connected*---fully engrossed in the thing, [looking along the beam](http://ktf.cuni.cz/~linhb7ak/Meditation-in-a-Toolshed.pdf)
+18. I want to learn like a motherfucker. I feel dead without it. 
+19. I feel better when I am out five nights pw at variations on very engrossing musical and visual things. Jazz gigs are the best example of this (so far).
+20. My memory is a leaky bucket right now and I'd like to stop that.
+21. Gotta stop trying to impress.
+22. I don't think the career ladder is a worthwhile thing for me. Promotion pathways and performance matrices are useful but nauseating. 
