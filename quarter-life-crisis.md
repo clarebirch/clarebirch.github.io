@@ -33,6 +33,7 @@ This is a living (ie. incomplete, being edited, updated) list of reflections, le
 21. Gotta stop trying to impress.
 22. I don't think the career ladder is a worthwhile thing for me. Promotion pathways and performance matrices are useful but nauseating. 
 23. I would benefit from a sound understanding of my strengths. New experiences, coupled with reflection, will help with this. I'll also work through [this](https://80000hours.org/articles/personal-strengths/).
+
 #### Experiments
 1. Going to New York (njörk)
 	1. Spending many hours in museums and galleries at a time:
@@ -73,8 +74,10 @@ This is a living (ie. incomplete, being edited, updated) list of reflections, le
 	4. [The Sound of Waves](https://www.kobo.com/au/en/ebook/the-sound-of-waves-1) - Yukio Mishima (fin)
 	5. [Stella Maris](https://www.kobo.com/au/en/ebook/stella-maris-28) - Cormac McCarthy (fin)
 	6. [When We Cease To Understand The World](https://www.kobo.com/au/en/ebook/when-we-cease-to-understand-the-world-4) - Benjamin Labatut (fin)
+
 #### Suggestions from people
 - Develop a strong understanding of your own strengths alongside this.
 - Consider psychedelics---and if not possible (it's not) then try building a strong meditation practice and doing a silent retreat.
+
 #### References
 <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/clare-j-birch/public-personal-library-47164316/embed/search=qlc&hide=tags%2C+excerpt%2C+header"></iframe>
