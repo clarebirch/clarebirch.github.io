@@ -4,11 +4,11 @@ title: A public record of my quarter-life crisis
 ---
 Originally posted: 17 September 2024
 
-Last updated: 20 September 2024
+Last updated: 26 September 2024
 
-Update count: 8
+Update count: 9
 
-Current word count: ~2.5k
+Current word count: ~2.6k
 
 This is a living (ie. incomplete, being edited, updated) ~~list of~~ reflection, list of lessons, advice, and experiments through my quarter-life crisis.
 #### Reflections
