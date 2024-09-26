@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3de07d8b1008360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quarter-life-crisis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,12 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fcc30e44f9a431d",
+  "active": "a3de07d8b1008360",
   "lastOpenFiles": [
+    "_qlc-reflections-archive/2024-09-18.md",
+    "_qlc-reflections-archive",
     "quarter-life-crisis.md",
+    "my-time-at-blackbird.md",
+    "_posts/2024-09-19-reflections-on-new-york.md",
+    "_posts/Untitled.md",
     "Pasted image 20240917125925.png",
     "_site/README.md",
-    "README.md",
-    "my-time-at-blackbird.md"
+    "README.md"
   ]
 }

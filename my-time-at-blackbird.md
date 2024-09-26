@@ -30,7 +30,7 @@ Companies I was involved with include:
 - [Soul Æether](https://x.com/soulaether_?lang=en)
 
 Some media that documents my time at Blackbird:
-- [Capital Brief](https://www.capitalbrief.com/article/blackbirds-scientist-in-residence-clare-birch-takes-flight-633885b5-0b03-4356-980b-c9b9e71d6822/preview/)'s article "Blackbird's deep tech doyenne Clare Birch takes flight" on my departure---"A well-liked and highly regarded Blackbird investor who served on Innovation Minister Ed Husic's quantum computing advisory board is leaving the firm for pastures new." (embarrassing!)
+- [Capital Brief](https://www.capitalbrief.com/article/blackbirds-scientist-in-residence-clare-birch-takes-flight-633885b5-0b03-4356-980b-c9b9e71d6822/preview/)'s article "Blackbird's deep tech doyenne Clare Birch takes flight" on my departure---"A well-liked and highly regarded Blackbird investor who served on Innovation Minister Ed Husic's quantum computing advisory board is leaving the firm for pastures new."
 - [Cosmos Magazine](https://cosmosmagazine.com/people/culture/blackbird-scientist-in-residence/)'s article "Why would a company need a scientist-in-residence?" from sometime around when I started.
 
 Some choice quotes from founders with whom I worked:

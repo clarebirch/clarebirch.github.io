@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04-02-unlearning-perfectionism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-04-02-unlearning-perfectionism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-04-02-unlearning-perfectionism.md"
+                "file": "2024-09-19-reflections-on-new-york.md"
               }
             }
           }
@@ -146,9 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0c9163609cbe496",
+  "active": "ae8c867c12f10baf",
   "lastOpenFiles": [
-    "2024-10-17-A-Living-List-of-Self-Discovery.md",
-    "2022-04-02-unlearning-perfectionism.md"
+    "2022-04-02-unlearning-perfectionism.md",
+    "2024-09-19-reflections-on-new-york.md",
+    "2024-10-17-A-Living-List-of-Self-Discovery.md"
   ]
 }
