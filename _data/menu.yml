@@ -38,6 +38,8 @@ entries:
       show_more_url: archive.html
   - title: my public personal library
     url: library.html
+  - title: my tbr/l pile
+    url: tbr.html
 #  - title: rss
 #    url: feed.xml
   

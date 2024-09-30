@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "29956ab58e0b8620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quarter-life-crisis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da67fa9d81ad906f",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,10 +215,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db0c2324e23ea571",
+  "active": "29956ab58e0b8620",
   "lastOpenFiles": [
-    "TBR.md",
+    "tbr.md",
     "quarter-life-crisis.md",
+    "TBR.md",
     "my-time-at-blackbird.md",
     "_qlc-reflections-archive/2024-09-18.md",
     "_qlc-reflections-archive",
