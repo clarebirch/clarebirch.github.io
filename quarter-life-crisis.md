@@ -87,14 +87,19 @@ I feel better when I'm out five nights per week at variations on very engrossing
 
 I don't care about the career ladder itself. Promotion pathways and performance matrices are useful but nauseating. 
 
-I think my strengths are:
+I don't want to only focus on my weaknesses. I think my strengths are:
 1. I've never met anything I couldn't learn as fast as anyone I've met (I haven't met many people!),
 2. I build good relationships with good people easily, and
-3. I've developed a kind of taste for people and things (though I'm still learning to trust my instincts on that)
+4. I've developed a kind of taste for people and things (though I'm still learning to trust my instincts on that)
+
 New experiences, coupled with reflection, will help with figuring out more of these. I'll also work through [this](https://80000hours.org/articles/personal-strengths/).
 
+Finally, the navel-gazing is wrapping up a little as I move back to looking outwards---winding up the self-as-a-project/narcissism of the thing.
 
 #### Experiments
+- The beach trip ("doing nothing")
+	- We went to Culburra for a few days and then to Bundanoon with a larger group of friends. Ben got sick in Culburra and we were blessed with dreary weather, which gave plenty of time to _do nothing_. Unfortunately, I have discovered I really do not want to do nothing. At the very least, I want to listen to lots of music and read lots and yap. 
+	- Ben wrote a murder mystery for the group (the second one he's done, having inadvertently recreated [Jubensha](https://en.wikipedia.org/wiki/Jubensha) late last year) and it went down an absolute treat. I'm trying to get him to put it online somewhere so others can also enjoy!
 - Going to New York (njörk)
 	- Spending many hours in museums and galleries at a time:
 		- [Neue Galerie](https://www.neuegalerie.org/)
@@ -102,45 +107,57 @@ New experiences, coupled with reflection, will help with figuring out more of th
 		- [Hauser & Wirth](https://www.hauserwirth.com/)
 		- [DC Moore](https://www.dcmooregallery.com/)
 		- [Miles McEnery](https://www.milesmcenery.com/)
-		- [Yancey Richardson](https://www.yanceyrichardson.com/)
+		- [Yancey Richardson](https://www.yanceyrichardson.com/) - most striking, saw [Mitch Epstein](https://mitchepstein.net/)'s [Old Growth](https://www.yanceyrichardson.com/exhibitions/mitch-epstein4) here
 		- [Sikkema Jenkins & Co](https://www.sikkemajenkinsco.com/)
 		- [Tina Kim](https://tinakimgallery.com/)
 		- [Kravets Wehby](https://www.kravetswehbygallery.com/)
-		1. [Nara Roesler](https://nararoesler.art/en/)
-		2. [Gladstone](https://www.google.com/search?q=gladstone+gallery&oq=gladstone+gallery&sourceid=chrome&ie=UTF-8)
-		3. [Paula Cooper](https://www.paulacoopergallery.com/)
-		4. [David Zwirner](https://www.davidzwirner.com/)
-	2. Seeing some good installation and immersive art:
-		1. [Mercer Labs](https://www.mercerlabs.com/)
-		2. [Sleep No More](https://mckittrickhotel.com/events/sleep-no-more/)
-	3. Seeing/listening to/experiencing (?) good jazz. So far: 
-		1. Benny Benack Quintet ([Benny Benack III](https://www.bennybenackjazz.com/) (t), [Sam Dillon](http://www.samdillonmusic.com/) (s), [Rasmus Sørensen](https://www.rasmussorensen.com/) (p), [Paul Gill](https://www.allaboutjazz.com/musicians/paul-gill/) (b), [Daniel Dufour](https://www.danieldufour.com/) (d)) @ [Smalls](https://www.smallslive.com/)
-		2. Noah Halpern Quartet ([Noah Halpern](https://www.noahhalpernmusic.com/) (t), [Rasmus Sørensen](https://www.rasmussorensen.com/) (p), [Gervis Myles](https://www.instagram.com/moneysignlavemoneysignlut) (b), [Domo Branch](https://www.domobranch.com/) (d)) ft [Georgia Heers](https://www.instagram.com/georgiaheers/reels/?__d=1) @ [Dizzy's](https://jazz.org/dizzys/) LNS
-		3. Tardo Hammer Trio ([Tardo Hammer](https://tardohammer.com/) (p), [Lee Hudson](https://www.smallslive.com/artists/135-lee-hudson/) (b), [Steve Williams](https://www.allaboutjazz.com/musicians/steve-williams/) (d)) @ [Ornithology](https://www.ornithologyjazzclub.com/)
-		4. Miguel Zenon Quartet ([Miguel Zenon](https://miguelzenon.com/) (s), [Luis Perdomo](https://luisperdomojazz.com/) (p), [Hans Glawischnig](https://www.hansglawischnig.com/) (b), [Henry Cole](https://henry-cole.com/henry-cole) (d)) @ [Village Vanguard](https://villagevanguard.com/)
-		5. Group @ [Smalls](https://www.smallslive.com/)
-		6. Jon Beshay Quartet (Jon Beshay (s), Jonathan Thomas (p), Peter Slavov (b), Charles Goold (d)) @ [Smalls](https://www.smallslive.com/).
-	4. Receive gut-wrenching insights into self from multiple sources and finding good questions to answer
-		1. How did studying chemistry / mathematics change you?
-		2. What is the pitch for science? What is maths like?
-		3. Why do you want to be so much?
-	5. Partying ([Brooklyn Mirage](https://www.avant-gardner.com/the-brooklyn-mirage))
-	6. Going to Twitter meetups ([coldhealing's 70k follower celebration](https://x.com/clarejtbirch/status/1832857612762689858))
-	7. Walking and writing lots
+		-  [Nara Roesler](https://nararoesler.art/en/)
+		- [Gladstone](https://www.google.com/search?q=gladstone+gallery&oq=gladstone+gallery&sourceid=chrome&ie=UTF-8)
+		- [Paula Cooper](https://www.paulacoopergallery.com/)
+		- [David Zwirner](https://www.davidzwirner.com/)
+	- Seeing some good installation and immersive art:
+		- [Mercer Labs](https://www.mercerlabs.com/)
+		- [Sleep No More](https://mckittrickhotel.com/events/sleep-no-more/)
+	- Seeing/listening to/experiencing (?) good jazz. So far: 
+		- Benny Benack Quintet ([Benny Benack III](https://www.bennybenackjazz.com/) (t), [Sam Dillon](http://www.samdillonmusic.com/) (s), [Rasmus Sørensen](https://www.rasmussorensen.com/) (p), [Paul Gill](https://www.allaboutjazz.com/musicians/paul-gill/) (b), [Daniel Dufour](https://www.danieldufour.com/) (d)) @ [Smalls](https://www.smallslive.com/)
+		- Noah Halpern Quartet ([Noah Halpern](https://www.noahhalpernmusic.com/) (t), [Rasmus Sørensen](https://www.rasmussorensen.com/) (p), [Gervis Myles](https://www.instagram.com/moneysignlavemoneysignlut) (b), [Domo Branch](https://www.domobranch.com/) (d)) ft [Georgia Heers](https://www.instagram.com/georgiaheers/reels/?__d=1) @ [Dizzy's](https://jazz.org/dizzys/) LNS
+		- Tardo Hammer Trio ([Tardo Hammer](https://tardohammer.com/) (p), [Lee Hudson](https://www.smallslive.com/artists/135-lee-hudson/) (b), [Steve Williams](https://www.allaboutjazz.com/musicians/steve-williams/) (d)) @ [Ornithology](https://www.ornithologyjazzclub.com/)
+		- Miguel Zenon Quartet ([Miguel Zenon](https://miguelzenon.com/) (s), [Luis Perdomo](https://luisperdomojazz.com/) (p), [Hans Glawischnig](https://www.hansglawischnig.com/) (b), [Henry Cole](https://henry-cole.com/henry-cole) (d)) @ [Village Vanguard](https://villagevanguard.com/)
+		- Group ? @ [Smalls](https://www.smallslive.com/)
+		- Jon Beshay Quartet ([Jon Beshay](https://www.jonbeshay.com/) (s), [Jonathan Thomas](https://www.jonthomasjazz.com/) (p), [Peter Slavov](https://www.peterslavov.com/) (b), [Charles Goold](https://www.charlesgooldmusic.com/) (d)) @ [Smalls](https://www.smallslive.com/).
+	- Finding good questions to answer
+		- How did studying chemistry / mathematics change you? --> this is a good question because I answer like I'm in a job interview
+		- What is the pitch for science? What is doing maths like?
+		- Why do you want to be so much? Why are you so ambitious?
+		- In 2050, what must exist but won't without your help? And where can your attributes give you durable differential advantage?
+	- Partying ([Brooklyn Mirage](https://www.avant-gardner.com/the-brooklyn-mirage))
+	- Going to Twitter meetups ([coldhealing's 70k follower celebration](https://x.com/clarejtbirch/status/1832857612762689858))
+	- Walking and writing lots
 - Cleaning up the media diet: 
-	1. Cut down slop (farewell streaming services, farewell bubblegum pop) that was making me feel like mush
-	2. Unfollowing and blocking accounts as I come across them on socials (there's going to be a lot of blocking of grindset tech people lol)
+	- Cut down slop (farewell streaming services, farewell bubblegum pop) that was making me feel like mush. Bubblegum pop does this interesting thing where you can listen to the same song over and over again and never be satiated. 
+	- Unfollowing and blocking accounts as I come across them on socials (there's going to be a lot of blocking of grindset tech people lol)
 - Reading:
-	1. [The History of Jazz](https://www.kobo.com/au/en/ebook/the-history-of-jazz-3) - Ted Gioia (ongoing)
-	2. [Runaway Horses](https://www.kobo.com/au/en/ebook/runaway-horses-1) - Yukio Mishima (ongoing)
-	3. [Cosmicomics](https://www.kobo.com/au/en/ebook/the-complete-cosmicomics) - Italo Calvino
-	4. [The Sound of Waves](https://www.kobo.com/au/en/ebook/the-sound-of-waves-1) - Yukio Mishima (fin)
-	5. [Stella Maris](https://www.kobo.com/au/en/ebook/stella-maris-28) - Cormac McCarthy (fin)
-	6. [When We Cease To Understand The World](https://www.kobo.com/au/en/ebook/when-we-cease-to-understand-the-world-4) - Benjamin Labatut (fin)
+	- [The History of Jazz](https://www.kobo.com/au/en/ebook/the-history-of-jazz-3) - Ted Gioia (ongoing)
+	- [Runaway Horses](https://www.kobo.com/au/en/ebook/runaway-horses-1) - Yukio Mishima (ongoing)
+	- [Cosmicomics](https://www.kobo.com/au/en/ebook/the-complete-cosmicomics) - Italo Calvino (ongoing)
+	- [The Sound of Waves](https://www.kobo.com/au/en/ebook/the-sound-of-waves-1) - Yukio Mishima (fin)
+	- [Stella Maris](https://www.kobo.com/au/en/ebook/stella-maris-28) - Cormac McCarthy (fin)
+	- [When We Cease To Understand The World](https://www.kobo.com/au/en/ebook/when-we-cease-to-understand-the-world-4) - Benjamin Labatut (fin)
+	- [TBR list](https://clarebir.ch/tbr.html)
+- Listening:
+	- [Achievement Society and the rise of narcissism, depression, and anxiety - Byung-Chul Han](https://open.spotify.com/episode/4i1cHIuY2ZUNrp07IDgr7N?si=CioAlCpJQqCU0l3_DYRvfA) - Philosophize This
+	- [Elements of Light](https://open.spotify.com/album/33qR6cvaLQDNf3QYjSJFwG?si=0aZt7azHSKuJ0aGLfF4ciQ) - Simon Moullier
+	- [In These Times](https://open.spotify.com/album/6OPYeQwXhmkcaSuh6fUTXA?si=2UwSEV5wSZGzyxDUppN6Ig) - Makaya McCraven
+	- [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA?si=4Do2HGveR2mx9BcjrsM4Wg) - The Dave Brubeck Quartet
+	- [Californication](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi?si=9KxiwiyXQIujBLRASTTZHg) - The Red Hot Chilli Peppers
+	- [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek?si=I4I4Bg04SgS2oxc6ME2NEw) - Bob Dylan
 
 #### Suggestions from people
-- Develop a strong understanding of your own strengths alongside this.
-- Consider psychedelics. Given this isn't possible, try building a strong meditation practice and doing a silent retreat.
+- Develop a strong understanding of your own strengths alongside this. (Mike)
+- Consider psychedelics. Given this isn't possible, try building a strong meditation practice and doing a silent retreat. (Angus)
+- Coaching (Jessy)
+- Get a job, get a job, get a job (Ben)
+- Write 500-1000 words on each of ~10 topics that interest you (Casey)
 
 #### References
 <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/clare-j-birch/public-personal-library-47164316/embed/search=qlc&hide=tags%2C+excerpt%2C+header"></iframe>
