@@ -154,10 +154,12 @@ Finally, the navel-gazing is wrapping up a little as I move back to looking outw
 
 #### Suggestions from people
 - Develop a strong understanding of your own strengths alongside this. (Mike)
+- Try collaborations? (Mike)
 - Consider psychedelics. Given this isn't possible, try building a strong meditation practice and doing a silent retreat. (Angus)
 - Coaching (Jessy)
 - Get a job, get a job, get a job (Ben)
 - Write 500-1000 words on each of ~10 topics that interest you (Casey)
+- The existentialists, and understanding this is a quite common kind of exploration (Ivan)
 
 #### References
 <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/clare-j-birch/public-personal-library-47164316/embed/search=qlc&hide=tags%2C+excerpt%2C+header"></iframe>
