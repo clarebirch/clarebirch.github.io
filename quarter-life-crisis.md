@@ -92,22 +92,24 @@ I think my strengths are:
 2. I build good relationships with good people easily, and
 3. I've developed a kind of taste for people and things (though I'm still learning to trust my instincts on that)
 New experiences, coupled with reflection, will help with figuring out more of these. I'll also work through [this](https://80000hours.org/articles/personal-strengths/).
+
+
 #### Experiments
 - Going to New York (njörk)
-	1. Spending many hours in museums and galleries at a time:
-		1. [Neue Galerie](https://www.neuegalerie.org/)
-		2. [MoMA](https://www.moma.org/)
-		3. [Hauser & Wirth](https://www.hauserwirth.com/)
-		4. [DC Moore](https://www.dcmooregallery.com/)
-		5. [Miles McEnery](https://www.milesmcenery.com/)
-		6. [Yancey Richardson](https://www.yanceyrichardson.com/)
-		7. [Sikkema Jenkins & Co](https://www.sikkemajenkinsco.com/)
-		8. [Tina Kim](https://tinakimgallery.com/)
-		9. [Kravets Wehby](https://www.kravetswehbygallery.com/)
-		10. [Nara Roesler](https://nararoesler.art/en/)
-		11. [Gladstone](https://www.google.com/search?q=gladstone+gallery&oq=gladstone+gallery&sourceid=chrome&ie=UTF-8)
-		12. [Paula Cooper](https://www.paulacoopergallery.com/)
-		13. [David Zwirner](https://www.davidzwirner.com/)
+	- Spending many hours in museums and galleries at a time:
+		- [Neue Galerie](https://www.neuegalerie.org/)
+		- [MoMA](https://www.moma.org/)
+		- [Hauser & Wirth](https://www.hauserwirth.com/)
+		- [DC Moore](https://www.dcmooregallery.com/)
+		- [Miles McEnery](https://www.milesmcenery.com/)
+		- [Yancey Richardson](https://www.yanceyrichardson.com/)
+		- [Sikkema Jenkins & Co](https://www.sikkemajenkinsco.com/)
+		- [Tina Kim](https://tinakimgallery.com/)
+		- [Kravets Wehby](https://www.kravetswehbygallery.com/)
+		1. [Nara Roesler](https://nararoesler.art/en/)
+		2. [Gladstone](https://www.google.com/search?q=gladstone+gallery&oq=gladstone+gallery&sourceid=chrome&ie=UTF-8)
+		3. [Paula Cooper](https://www.paulacoopergallery.com/)
+		4. [David Zwirner](https://www.davidzwirner.com/)
 	2. Seeing some good installation and immersive art:
 		1. [Mercer Labs](https://www.mercerlabs.com/)
 		2. [Sleep No More](https://mckittrickhotel.com/events/sleep-no-more/)
