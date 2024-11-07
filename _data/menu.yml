@@ -4,14 +4,14 @@
 entries:
   - title: things I'm doing (at November 2024)
     entries:
-      - title: helping out and learning at Encour, a startup comms agency for opinionated companies
-        url: https://encour.co
-      - title: writing about schizophrenia and other things at Clarevoyant
-        url: https://clarevoyant.substack.com
       - title: filling the proverbial cup while on "sabbatical"
         entries:
           - title: you can follow along with my quarter-life crisis reflections and lessons here (last updated November 7)
             url: quarter-life-crisis.html
+          - title: I'm extending my runway by helping out and learning at Encour, a startup comms agency for opinionated companies
+            url: https://encour.co
+      - title: writing about schizophrenia and other things at Clarevoyant
+        url: https://clarevoyant.substack.com
       - title: helping the Australian Government build its quantum industry as a member of the National Quantum Advisory Committee
         url: https://www.minister.industry.gov.au/ministers/husic/media-releases/national-quantum-advisory-committee
         entries:
