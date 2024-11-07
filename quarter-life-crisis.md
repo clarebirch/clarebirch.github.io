@@ -4,39 +4,51 @@ title: A public record of my quarter-life crisis
 ---
 Originally posted: 17 September 2024
 
-Last updated: 30 September 2024
+Last updated: 7 November 2024
 
-Update count: 11
+Update count: 12
 
-Current word count: ~2.6k
+Current word count: ~2.5k
 
 This is a living (ie. incomplete, being edited, updated) ~~list of~~ reflection, list of lessons, advice, and experiments through my quarter-life crisis.
-#### Reflections
+#### Notes on this update (November 2024)
+First, thank you much to the several people who have reached out to ask questions, chat, and help after reading this. It's been a real pleasure meeting you!! Special thanks to [Joe](https://x.com/josephnwalker?lang=en), [José](https://x.com/ArtirKel), and [Alexey](https://x.com/alexeyguzey), in part for their mutual consistency in flying the [EV](https://www.mercatus.org/emergent-ventures) Grantees/"Greater George Mason Co-Prosperity Sphere" (kudos to [this]((https://www.thepsmiths.com/p/review-scaling-people-by-claire-hughes?utm_source=publication-search#footnote-1-130267993) very sassy but witty blog) flag. 
 
+The next chapter looks pretty great at this point. Very excited. It looks like:
+* Building a research org (stealthy!)
+* Working for a person I believe in and admire ([Jessy](https://www.linkedin.com/in/jessyzwu)) to help out in a little way in building an opinionated, courageous startup comms agency ([Encour](https://encour.co/))
+* Independent research, crystallised into writing, on simulating molecules and stuff, computation, energy/climate, schizophrenia, and short-form PG-esque essays at [Clarevoyant](https://clarevoyant.substack.com)
+* Doing music things, including using some of the stuff I've learned to help the local improvisational music association into *its* next chapter
+
+I've also updated the reflection below to represent my current thinking. I have a short meta-commentary on the process of reflection---please indulge. 
+
+I've chosen to put my thoughts online as I go *through* this journey because I believe that part of charting a course forward is leaving a path behind you for others to learn from (or follow). To do that well requires vulnerability and honesty.
+
+There are two kinds of truth in reflection: the kind that exists in the short term (micro truth, truth in the moment) and the kind that emerges over a longer period (macro truth). The last version of this was written while I was very much "in the weeds" of processing and kicking off a values reset, and emphasised micro truths. Because of that, some parts were overweighted, and I was wrong about some things. 
+
+You can read a prior version on Github I think (version control rocks) but the point is: I've come out of the weeds with time and rest, so this updated reflection is closer to a macro truth. That's the point of this put-it-online project!
+#### Reflections
 I like to think of the foundations of my self as having to do with learning, generosity, and rigour. I am most my *self* when I am learning and creating new things that are excellent (well executed, something to be proud of, novel) and that make other people's lives much better. 
 
-At a glance, it would seem those boxes were ticked over the past few years as an Investment Associate. I learned plenty about business, about a subset of frontier-tech markets, and (mostly) about people, working, and getting things done in a growing organisation. I learned about VC and fundraising, which I think will be a powerful tool. We created [Foundry](https://blackbird.vc/foundry), which is doing good things for ECRs in Australia and is something to be proud of. I broadened my horizons and grew up a bunch. I met some very ambitious people who continue to inspire me. 
+I ticked those boxes over the past few years as an Investment Associate, but something was still missing.
 
-As an aside, it's an odd (painful, relief-ful) feeling to be replaced in real time, and then another odd feeling to watch yourself be erased from the things you've done.
+I learned plenty about business, about a subset of frontier-tech markets, and (mostly) about people, working, and getting things done in a growing organisation. I learned about VC and fundraising, which I think will be a powerful tool. We created [Foundry](https://blackbird.vc/foundry), which is doing good things for ECRs in Australia and is something to be proud of. I broadened my horizons and grew up a bunch. I met some very ambitious people who continue to inspire me. 
 
-I'm chronically dissatisfied with my own performance, so I need to keep that bias in check, but I still have the sense that I've strayed from that core over the past few years. 
+The missing part comes down to a few other things that are foundational to me:
+1. Agency and ownership;
+2. Creativity;
+3. Challenge;
+4. Doing, rather than optimising;
+5. Ambition and opportunity for scale.
 
-I think the core problem is that I wasn't actually doing a thing that I loved. I really like the craft of early-stage investing at what I think is its best: clear and expert judgment in the face of huge uncertainty, building trust, and finding overlooked outlier individuals to whom to give cash-shaped opportunities. 
+I like the craft of early-stage investing at what I think is its best: clear and expert judgment in the face of huge uncertainty, building trust, and finding overlooked outlier individuals to whom to give cash-shaped opportunities. 
 
-But...
+However, it's an optimisation or enablement layer, not a core layer; it's not where I want to be right now. I believe in building substantive expertise---the ability to understand most every task in the stack before making decisions about it. 
 
-* I found that the learning curve cooled off fast in junior VC. I got seriously bored about a year or so in and (punitively!) dragged it out past that, buying into the career game. Upon reflection, there was no doubt lots more to learn---I tend to think learning is my responsibility, and there's always lots to learn---but combined with a narrowing role, I bought into the career game because I thought that was what I needed to do in order to be allowed to learn more. For what it's worth, I've learned more in the past couple of weeks unemployed than I did for many months prior to finishing up work. Environment matters.
-* VC's core purpose is to make money for other people, which I only find motivating in particular contexts. Some degree of directness is important to me. I am not motivated by making money or by lifestyle; I like a nice lifestyle but it's not super important to me.
-* VC is cyclical and, unless you're building the fund itself, you're never really creating a thing. I like creating things. I tried to add that part of the role with Foundry, but ultimately was required by management to step away from it. 
+A person I like and admire asked me recently what my number one passion is. I have never thought of myself as a singular-passion kind of person. I have lusted after it---to be single-minded in devotion to a single thing, whether it's a god or a mission or whatever. I've put it as this in an earlier version of this reflection:
 
-There are a couple of other things that have come up during my time reflecting:
-- I can think of a couple of examples where I have the sense that I compromised on my intellectual honesty. I don't think this would be the standard view of my work from a VC perspective, but I do think it'd be the one from e.g. a scientific perspective. I sit somewhere between the two: I have a strong anti-sales bias but I love narrative. This one has been complicated to unknot! 
-- My work patterns were unsustainable as I was grinding against things that drained a bunch of energy. I thought of a lot of it as an opportunity to build resilience and grit, but it also sucked. I left with hundreds of hours of leave accrued!
-- I hate asking permission for things. Won't go into more of this, but turns out agency is a core value! 
-
-Again, these things become less important when you really, really care about the thing you're doing and you're in the groove. Seeing along the beam. Etc.
-
-The thing. The devotion. The thing that makes it all worthwhile. The thing that isn't you, that is part of you but is for everyone. The soulful thing. George Bernard Shaw puts it as:
+(start)
+The thing that makes it all worthwhile. The thing that isn't you, that is part of you but is for everyone. The soulful thing. George Bernard Shaw puts it as:
 
 > This is the true joy in life, being used for a purpose recognized by yourself as a mighty one. Being a force of nature instead of a feverish, selfish little clod of ailments and grievances, complaining that the world will not devote itself to making you happy. I am of the opinion that my life belongs to the whole community and as long as I live, it is my privilege to do for it what I can. I want to be thoroughly used up when I die, for the harder I work, the more I live. I rejoice in life for its own sake. Life is no brief candle to me. It is a sort of splendid torch which I have got hold of for the moment and I want to make it burn as brightly as possible before handing it on to future generations.
 
@@ -48,8 +60,15 @@ And Flea, in his memoir [*Acid for the Children*](https://www.amazon.com/Acid-Ch
 
 > Nothing special about me, we've all got our own sacred place, but to access it, your mission must be pure and your aim true. Just a little thought of trying to use it for a power tool, a career move, and the process becomes corrupted. You gotta go for the joy, the pain, the adventure, the search, the journey to love. I learned that from Kurt Vonnegut. You have to be willing to dedicate your life to that journey, not as a means to an end, but just as an opportunity to trip the fuck out. Ya gotta suspend all self-judgement, and embrace all. The reward is the journey itself. And that's how I became the bass player I'm still trying tobe. Just exploring for a sense of purpose. 
 
-So I wasn't quite doing my _thing_ and I think that decision came down to a lack of confidence in my own abilities. (an aside: since I started rewriting this a couple of days ago, I've come to think that much of _my_ extant definition of what makes a worthwhile _thing_ is defined by a fundamentalist guilt and being a parentified daughter, so stick that one on the backburner)
+(end)
 
+After this period of reflection and experimentation, though, I've found that I am a singular passion person. It's just been a little hard to describe. I just like building people-machines that solve ugly, science-related problems. That's the higher level. Requires expertise at all the lower levels. Requires excellence. Etc. 
+
+I'm a technical people person: technical detail nourishes me, I love people and am surprisingly good with them (when I don't piss them off with too-honest short-term stream-of-consciousness nonsense), and I feel most at home with "technical" (ie. in the weeds, in the detail) people. 
+
+So that's when I'm "in the groove", per an earlier version of this:
+
+(start)
 And because I wasn't quite doing my thing I usually wasn't in the groove, which again---Flea describes in *Acid for the Children*:
 
 > When I’m rocking a groove, there is only nature working, ain’t no one gonna rock it harder than me. Free from all prison of my mind’s construct, I am a fucking mama grizzly bear protecting her cubs, and I don’t care if I die. I trust my animal instinct completely. I let go of every thought, let go of all the world, and KILL the groove. The hurt and pain in my heart is my ticket to fly, I surrender all earthly desires in the moment, when it’s time to rock and tap the source. I gotta be the groove and nothing else, fuck the world so I can uplift the world.
@@ -63,40 +82,22 @@ I think of this---being in the groove, in some way in the pocket---as the same f
 > 
 > Then I moved, so that the beam fell on my eyes. Instantly the whole previous picture vanished. I saw no toolshed, and (above all) no beam. Instead I saw, framed in the irregular cranny at the top of the door, green leaves moving on the branches of a tree outside and beyond that, 90 odd million miles away, the sun. Looking along the beam, and looking at the beam are very different experiences.
 
-Jazz gigs are powerful because when you're _in them_ (physically sitting in what feels like the music splash zone) and you're paying attention (which is easy), you feel close to being "in the groove" with the musicians themselves and the music they're playing. You can get _in it_ with ease. It's not the same as what they're experiencing (at least in my not-jazz experience) but it is an intense shared experience that happens along the flow of the music. It's entirely absorbing.
+(end)
 
-I have in my mind the idea that maths and/or simulation/computation research would yield this kind of groove for me. I find myself regretting not having done a PhD yet, honestly---I regret not devoting that time to just enjoying chemistry and quantum information, and also to sharpening my mind. At the same time, I think I was at the wrong place, mentally, to be doing it ~3y ago when I would've been starting.
-
-Where is this going? From here it devolves into more dot-point reflections for now. 
-
-This is going to take more than a couple of weeks. 
-
-I want to be patient and experimental with it. Be in the groove with the discovery itself. 
-
-A big part of this is finding more of my people. I'm lucky to have a handful of close friends who I deeply admire and trust, and who make me better for knowing them. I don't think there are thousands of them around for me, but I think there are some.
-
-The things I do having a sense of purpose or impact is important to me. I angst when I do lots of work *for the sake of it*. I wonder how much of this angst is just shame? Can I be ambitious and enjoy things? I do want to achieve _for something greater than myself_.
-
-Making a new thing and putting it out into the world is very satisfying. I get a helluva kick out of making good new things that people enjoy or find challenging. I also get a helluva kick out of learning deeply and mastering a new thing.
-
-My attention span and ability to wrestle with a really difficult problem has been shot to pieces. I'm gritty over longer horizons but I would like to extend my short-term mental fortitude (I want to stare at tough problems for ages without screaming).
-
-Much---most---of what I have done in life has been directed for the sole intent of _impressing_ someone or everyone. 
-
-I feel better when I'm out five nights per week at variations on very engrossing musical and visual things, and filling as much of my time as possible with chewing on thought-provoking stuff either by myself or with someone.
-
-I don't care about the career ladder itself. Promotion pathways and performance matrices are useful but nauseating. 
-
-I don't want to only focus on my weaknesses. I think my strengths are:
-1. I've never met anything I couldn't learn as fast as anyone I've met (I haven't met many people!),
-2. I build good relationships with good people easily, and
-4. I've developed a kind of taste for people and things (though I'm still learning to trust my instincts on that)
-
-New experiences, coupled with reflection, will help with figuring out more of these. I'll also work through [this](https://80000hours.org/articles/personal-strengths/).
-
-Finally, the navel-gazing is wrapping up a little as I move back to looking outwards---winding up the self-as-a-project/narcissism of the thing.
-
+The best lesson I've learned over the past couple of months has been recognising what it feels like when I'm trying to do something because I think I *ought to* be doing it. It's been fun to put that instinct on ice. It's the wrong kind of people pleasing, and it's rooted in insecurity. But relinquishing it has meant (1) I'm back to doing, not optimising, and (2) I feel oh-so light. 
 #### Experiments
+- Meeting cool people and getting involved a little in the local jazz scene
+	- Highly recommend this.
+	- Turns out Sydney has a cool music scene now. Who knew!
+	- Tom asked for my jazz schedule. The baseline is Monday Night Confessions, Wednesday Jazz at the Crix, and rarely Thursday at the Botany View Hotel. I've got a list going of the better venues and am starting to keep an eye on their schedules.
+- Started a two-pronged writing practice
+	- Highly recommend this. 
+	- The first prong is journalling---which I've done on and off for a long time, but hadn't done consistently for the past couple of years. It's very valuable for character development (ie. not being a shit---being incapable of genuine reflection is one of my few "red flags" in a person), and autobiographical memory.
+	- The second is the note taking --> full written piece pipeline, which is more nascent for me. I found myself trying to write a full piece from a blank page, with minimal planning or ongoing research. Turns out if you take descriptive notes, capture thoughts, etc, and nourish them with exploration, and research over time, writing becomes way easier.  You also need to relinquish the desire to be *correct* (or the fear of being *incorrect* for a bit; rigour is a different kind of process. 
+- Started a personal research project on schizophrenia
+	- Publishing it as Fugue States
+	- Not putting pressure on timelines
+	- Really enjoying this, doesn't feel like a chore
 - The beach trip ("doing nothing")
 	- We went to Culburra for a few days and then to Bundanoon with a larger group of friends. Ben got sick in Culburra and we were blessed with dreary weather, which gave plenty of time to _do nothing_. Unfortunately, I have discovered I really do not want to do nothing. At the very least, I want to listen to lots of music and read lots and yap. 
 	- Ben wrote a murder mystery for the group (the second one he's done, having inadvertently recreated [Jubensha](https://en.wikipedia.org/wiki/Jubensha) late last year) and it went down an absolute treat. I'm trying to get him to put it online somewhere so others can also enjoy!
@@ -153,13 +154,13 @@ Finally, the navel-gazing is wrapping up a little as I move back to looking outw
 	- [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek?si=I4I4Bg04SgS2oxc6ME2NEw) - Bob Dylan
 
 #### Suggestions from people
-- Develop a strong understanding of your own strengths alongside this. (Mike)
-- Try collaborations? (Mike)
-- Consider psychedelics. Given this isn't possible, try building a strong meditation practice and doing a silent retreat. (Angus)
-- Coaching (Jessy)
-- Get a job, get a job, get a job (Ben)
-- Write 500-1000 words on each of ~10 topics that interest you (Casey)
-- The existentialists, and understanding this is a quite common kind of exploration (Ivan)
+- Develop a strong understanding of your own strengths alongside this. (Mike) <-- onoing
+- Try collaborations? (Mike) <-- ongoing!!
+- Consider psychedelics. Given this isn't possible, try building a strong meditation practice and doing a silent retreat. (Angus) <-- back on the yoga train
+- Coaching (Jessy) <-- not actioned
+- Get a job, get a job, get a job (Ben) <-- kinda
+- Write 500-1000 words on each of ~10 topics that interest you (Casey) <-- yes, and going to start publishing
+- The existentialists, and understanding this is a quite common kind of exploration (Ivan) <-- done (Pareto, at least)
 
 #### References
 <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/clare-j-birch/public-personal-library-47164316/embed/search=qlc&hide=tags%2C+excerpt%2C+header"></iframe>
