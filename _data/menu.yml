@@ -2,11 +2,15 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: things I'm doing (at September 2024)
+  - title: things I'm doing (at November 2024)
     entries:
-      - title: filling the proverbial cup while on "sabbatical" (and doing some contract work for startups to extend that)
+      - title: helping out and learning at Encour, a startup comms agency for opinionated companies
+        url: https://encour.co
+      - writing about schizophrenia and other things at Clarevoyant
+        url: https://clarevoyant.substack.com
+      - title: filling the proverbial cup while on "sabbatical"
         entries:
-          - title: you can follow along with my quarter-life crisis reflections and lessons here
+          - title: you can follow along with my quarter-life crisis reflections and lessons here (last updated November 7)
             url: quarter-life-crisis.html
       - title: helping the Australian Government build its quantum industry as a member of the National Quantum Advisory Committee
         url: https://www.minister.industry.gov.au/ministers/husic/media-releases/national-quantum-advisory-committee

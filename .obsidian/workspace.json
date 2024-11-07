@@ -4,91 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8151f2c2775a8f8c",
+        "id": "7c0ef06a5d35e4d7",
         "type": "tabs",
         "children": [
           {
-            "id": "e0cb9e0bf5c0d83e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my-time-at-blackbird.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d258860fe6443d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quarter-life-crisis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fcc30e44f9a431d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quarter-life-crisis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3de07d8b1008360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quarter-life-crisis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db0c2324e23ea571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quarter-life-crisis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29956ab58e0b8620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quarter-life-crisis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da67fa9d81ad906f",
+            "id": "e011a305edaf6fe3",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quarter-life-crisis.md",
+                "file": "archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quarter-life-crisis.md",
+                "file": "archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quarter-life-crisis.md"
+                "file": "archive.md"
               }
             }
           }
@@ -215,10 +142,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29956ab58e0b8620",
+  "active": "bd9e47ba1bbf14e0",
   "lastOpenFiles": [
-    "tbr.md",
+    "foundry.md",
+    "index.md",
     "quarter-life-crisis.md",
+    "tbr.md",
     "TBR.md",
     "my-time-at-blackbird.md",
     "_qlc-reflections-archive/2024-09-18.md",
