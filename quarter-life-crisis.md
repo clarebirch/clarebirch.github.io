@@ -12,7 +12,7 @@ Current word count: ~2.5k
 
 This is a living (ie. incomplete, being edited, updated) ~~list of~~ reflection, list of lessons, advice, and experiments through my quarter-life crisis.
 #### Notes on this update (November 2024)
-First, thank you much to the several people who have reached out to ask questions, chat, and help after reading this. It's been a real pleasure meeting you!! Special thanks to [Joe](https://x.com/josephnwalker?lang=en), [José](https://x.com/ArtirKel), and [Alexey](https://x.com/alexeyguzey), in part for their mutual consistency in flying the [EV](https://www.mercatus.org/emergent-ventures) Grantees/"Greater George Mason Co-Prosperity Sphere" (kudos to [this]((https://www.thepsmiths.com/p/review-scaling-people-by-claire-hughes?utm_source=publication-search#footnote-1-130267993) very sassy but witty blog) flag. 
+First, thank you much to the several people who have reached out to ask questions, chat, and help after reading this. It's been a real pleasure meeting you!! Special thanks to [Joe](https://x.com/josephnwalker?lang=en), [José](https://x.com/ArtirKel), and [Alexey](https://x.com/alexeyguzey), in part for their mutual consistency in flying the [EV](https://www.mercatus.org/emergent-ventures) Grantees/"Greater George Mason Co-Prosperity Sphere" flag. (kudos to [this](https://www.thepsmiths.com/p/review-scaling-people-by-claire-hughes?utm_source=publication-search#footnote-1-130267993) very sassy but witty blog for that bit) 
 
 The next chapter looks pretty great at this point. Very excited. It looks like:
 * Building a research org (stealthy!)
