@@ -86,18 +86,27 @@ I think of this---being in the groove, in some way in the pocket---as the same f
 
 The best lesson I've learned over the past couple of months has been recognising what it feels like when I'm trying to do something because I think I *ought to* be doing it. It's been fun to put that instinct on ice. It's the wrong kind of people pleasing, and it's rooted in insecurity. But relinquishing it has meant (1) I'm back to doing, not optimising, and (2) I feel oh-so light. 
 #### Experiments
-- Meeting cool people and getting involved a little in the local jazz scene
-	- Highly recommend this.
-	- Turns out Sydney has a cool music scene now. Who knew!
-	- Tom asked for my jazz schedule. The baseline is Monday Night Confessions, Wednesday Jazz at the Crix, and rarely Thursday at the Botany View Hotel. I've got a list going of the better venues and am starting to keep an eye on their schedules.
 - Started a two-pronged writing practice
 	- Highly recommend this. 
 	- The first prong is journalling---which I've done on and off for a long time, but hadn't done consistently for the past couple of years. It's very valuable for character development (ie. not being a shit---being incapable of genuine reflection is one of my few "red flags" in a person), and autobiographical memory.
 	- The second is the note taking --> full written piece pipeline, which is more nascent for me. I found myself trying to write a full piece from a blank page, with minimal planning or ongoing research. Turns out if you take descriptive notes, capture thoughts, etc, and nourish them with exploration, and research over time, writing becomes way easier.  You also need to relinquish the desire to be *correct* (or the fear of being *incorrect* for a bit; rigour is a different kind of process. 
 - Started a personal research project on schizophrenia
-	- Publishing it as Fugue States
+	- Publishing it as [Fugue States](https://clarevoyant.substack.com)
 	- Not putting pressure on timelines
 	- Really enjoying this, doesn't feel like a chore
+- - Meeting cool people and getting involved a little in the local jazz scene
+	- Highly recommend this.
+	- Turns out Sydney has a cool music scene now. Who knew!
+	- Tom asked for my jazz schedule. The baseline is Monday Night Confessions, Wednesday Jazz at the Crix, and rarely Thursday at the Botany View Hotel. I've got a list going of the better venues and am starting to keep an eye on their schedules.
+	- Because I listed the NYC ones I guess I should list some of the Sydney ones: 
+		- [Bungarribee](https://www.facebook.com/Bungarribee/) ([Gary Daley](https://www.instagram.com/garydaleymusic/) (p), [Paul Cutlan](https://www.paulcutlan.com/) (woodwinds), [Ollie Miller](http://www.woodenpicket.com.au/) (cello and electronics), [Chloe Kim](https://www.chloekimdrums.com/) (d)) @ [Monday Night Confessions](https://www.instagram.com/mondaynightconfessions/) @ [Church Street Studios](https://www.churchstreetstudios.com.au/)
+		- [Tangents](https://www.tangentsmusic.com/) ([Adrian Lim-Klumpes](https://www.adrianlimklumpes.com/) (p), [Evan Dorrian](https://www.instagram.com/evandorrian/) (d), [Ollie Bown](http://www.olliebown.com/) (computer), [Peter Hollo](https://www.instagram.com/cello_raven/?hl=en) (cello, effects)) @ [Monday Night Confessions](https://www.instagram.com/mondaynightconfessions/) @ [Church Street Studios](https://www.churchstreetstudios.com.au/)
+		- Arthur Washington Quartet (so far [Arthur Washington](https://www.instagram.com/arthurwash/) (g), Billy Ward (s), [Jerry Washington](https://www.instagram.com/jerrywash/?hl=en) (g), [Nick Jansen](https://www.instagram.com/_nickjansen/?locale=en_US%2Cen_GB%2Cen_GB&hl=am-et) (b)) @ [The Cricketers Arms Hotel](https://www.instagram.com/cricketersarmshotel/?hl=en)
+		- Aaron Blakey Quartet @ The Botany View Hotel
+		- [Sofia Carey](https://www.instagram.com/sofifififif/?hl=en) @ [Monday Night Confessions](https://www.instagram.com/mondaynightconfessions/) @ [Church Street Studios](https://www.churchstreetstudios.com.au/)
+		- [Home Is](https://peoplesound.bandcamp.com/album/home-is), a project by Hinano Fujisaki (ft [Jacques Emery](https://www.instagram.com/jacques.pze/?hl=en) (b), [Bonnie Stewart](https://www.bonniestewart.net/) (d, voice), [Lauren Tsamouras](https://www.instagram.com/laurentsamouras/) (p)) written as a thank you to everyone who has made her feel at home (loved this) @ [Monday Night Confessions](https://www.instagram.com/mondaynightconfessions/) @ [Church Street Studios](https://www.churchstreetstudios.com.au/)
+		- [Monica Brooks](https://www.instagram.com/monicamonicaman/) @ [Monday Night Confessions](https://www.instagram.com/mondaynightconfessions/) @ [Church Street Studios](https://www.churchstreetstudios.com.au/)
+		- Farfinkel Pugowski ([Dale Gorfinkel](https://dalegorfinkel.com/) (vibraphone and other things), [Peter Farrar](https://www.instagram.com/8trackandfield/?hl=en) (s), [Mike Majkowski](https://mikemajkowski.bandcamp.com/) (b), [James Pug Waples](https://www.instagram.com/pug_cymbals/?hl=en) (d)) @ [Monday Night Confessions](https://www.instagram.com/mondaynightconfessions/) @ [Church Street Studios](https://www.churchstreetstudios.com.au/)
 - The beach trip ("doing nothing")
 	- We went to Culburra for a few days and then to Bundanoon with a larger group of friends. Ben got sick in Culburra and we were blessed with dreary weather, which gave plenty of time to _do nothing_. Unfortunately, I have discovered I really do not want to do nothing. At the very least, I want to listen to lots of music and read lots and yap. 
 	- Ben wrote a murder mystery for the group (the second one he's done, having inadvertently recreated [Jubensha](https://en.wikipedia.org/wiki/Jubensha) late last year) and it went down an absolute treat. I'm trying to get him to put it online somewhere so others can also enjoy!
@@ -139,13 +148,22 @@ The best lesson I've learned over the past couple of months has been recognising
 	- Unfollowing and blocking accounts as I come across them on socials (there's going to be a lot of blocking of grindset tech people lol)
 - Reading:
 	- [The History of Jazz](https://www.kobo.com/au/en/ebook/the-history-of-jazz-3) - Ted Gioia (ongoing)
-	- [Runaway Horses](https://www.kobo.com/au/en/ebook/runaway-horses-1) - Yukio Mishima (ongoing)
-	- [Cosmicomics](https://www.kobo.com/au/en/ebook/the-complete-cosmicomics) - Italo Calvino (ongoing)
+	- [Our Share of Night](https://www.amazon.com.au/Our-Share-Night-Mariana-Enriquez-ebook/dp/B09ZHBFJHZ) - Mariana Enriquez (ongoing)
+	- [Fiskadoro](https://www.amazon.com.au/Fiskadoro-Denis-Johnson/dp/0060976098) - Denis Johnson (ongoing)
+	- [The Sovereignty of Good](https://www.amazon.com.au/Sovereignty-Good-Iris-Murdoch/dp/0744800285) - Iris Murdoch (fin)
+	- [Runaway Horses](https://www.kobo.com/au/en/ebook/runaway-horses-1) - Yukio Mishima (fin)
+	- [Cosmicomics](https://www.kobo.com/au/en/ebook/the-complete-cosmicomics) - Italo Calvino (fin)
 	- [The Sound of Waves](https://www.kobo.com/au/en/ebook/the-sound-of-waves-1) - Yukio Mishima (fin)
 	- [Stella Maris](https://www.kobo.com/au/en/ebook/stella-maris-28) - Cormac McCarthy (fin)
 	- [When We Cease To Understand The World](https://www.kobo.com/au/en/ebook/when-we-cease-to-understand-the-world-4) - Benjamin Labatut (fin)
 	- [TBR list](https://clarebir.ch/tbr.html)
 - Listening:
+	- [La reserve record's on rotation playlist](https://open.spotify.com/playlist/5Mdsr9E2FqKh1kaQH5EiG3?si=1836bb468eaa4171)
+	- [オン・ギター](https://open.spotify.com/album/20ku6CzcC5hFmNxoCaOzzJ?si=OX0hTLFaRVCupil-d2jiyQ) - Masayoshi Takanaka
+	- [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA?si=6dixTG8jTkufdEq4PoENJA) - Herbie Hancock
+	- [Forget and Not Slow Down](https://open.spotify.com/album/40CpXO3ejimyiKMamNz9bp?si=bOvF6COvRQOKCO8nOCEK_Q) - Relient K
+	- [Tales from Terra Firma](https://open.spotify.com/album/1kuZ3asY6rhdOppRNZpDkY?si=inOrQ3S1RhWUjixFGwg6tw) - Stornoway
+	- [Rockin' the Suburbs](https://open.spotify.com/album/2dBujXNmYf1xnNqVvmtezB?si=OZ-h8bCcT6O-GpIt1ZMPCg) - Ben Folds
 	- [Achievement Society and the rise of narcissism, depression, and anxiety - Byung-Chul Han](https://open.spotify.com/episode/4i1cHIuY2ZUNrp07IDgr7N?si=CioAlCpJQqCU0l3_DYRvfA) - Philosophize This
 	- [Elements of Light](https://open.spotify.com/album/33qR6cvaLQDNf3QYjSJFwG?si=0aZt7azHSKuJ0aGLfF4ciQ) - Simon Moullier
 	- [In These Times](https://open.spotify.com/album/6OPYeQwXhmkcaSuh6fUTXA?si=2UwSEV5wSZGzyxDUppN6Ig) - Makaya McCraven
@@ -158,7 +176,7 @@ The best lesson I've learned over the past couple of months has been recognising
 - Try collaborations? (Mike) <-- ongoing!!
 - Consider psychedelics. Given this isn't possible, try building a strong meditation practice and doing a silent retreat. (Angus) <-- back on the yoga train
 - Coaching (Jessy) <-- not actioned
-- Get a job, get a job, get a job (Ben) <-- kinda
+- Get a job, get a job, get a job (Ben) <-- i guess
 - Write 500-1000 words on each of ~10 topics that interest you (Casey) <-- yes, and going to start publishing
 - The existentialists, and understanding this is a quite common kind of exploration (Ivan) <-- done (Pareto, at least)
 

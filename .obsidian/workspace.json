@@ -11,8 +11,14 @@
             "id": "e011a305edaf6fe3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "quarter-life-crisis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quarter-life-crisis"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archive.md",
+                "file": "quarter-life-crisis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for quarter-life-crisis"
             }
           },
           {
@@ -98,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archive.md",
+                "file": "quarter-life-crisis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from quarter-life-crisis"
             }
           },
           {
@@ -112,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -121,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archive.md"
-              }
+                "file": "quarter-life-crisis.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of quarter-life-crisis"
             }
           }
         ]
@@ -142,12 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd9e47ba1bbf14e0",
+  "active": "e011a305edaf6fe3",
   "lastOpenFiles": [
+    "tbr.md",
+    "quarter-life-crisis.md",
     "foundry.md",
     "index.md",
-    "quarter-life-crisis.md",
-    "tbr.md",
     "TBR.md",
     "my-time-at-blackbird.md",
     "_qlc-reflections-archive/2024-09-18.md",
