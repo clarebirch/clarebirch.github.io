@@ -58,9 +58,15 @@ Miles Davis at the Montreux Jazz Festival, 1988 with an incredible lineup, ft. B
 Lindsay Ellis on Yoko and the Beatles (or, why the Beatles actually fell apart):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SMOABV_zgrk?si=u0-tGwUbY8Ce5gUm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-MIT 7.91J - Foundations of Computational and Systems Biology, Spring 2014 (via MIT OCW) [here](https://www.youtube.com/watch?v=lJzybEXmIj0&list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac)
-Fantasy High dunking on Elves for like 20 straight minutes [here](https://youtu.be/4QXtxa48WGk?si=-SQGXMC6q5grka_h) (r) (classic)
-Dana Gioia's writing advice parts [one](https://youtu.be/apxY9yKfk5E?si=2WT_RVrNJAQJFwG1), [two](https://youtu.be/1yVCGenrxNo?si=vmmwVc6scicjexyf), [three](https://youtu.be/xdENvS4YZvE?si=mopGVwQ5k_NAgxTb), [four](https://youtu.be/nR7ZNvbwkXo?si=TP3f5l-IkX5BixFO), [five](https://youtu.be/fpqZxROLk8k?si=mKdSnKcs9I9MA9Un), and [six](https://youtu.be/WvIKZHYkBlo?si=sE1fiVHkrEOOj_u1).
+Fantasy High dunking on Elves for like 20 straight minutes (r) (classic):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4QXtxa48WGk?si=LcFMWNVr_PSt3p0x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+And some series:
+- MIT 7.91J - Foundations of Computational and Systems Biology, Spring 2014 (via MIT OCW) [here](https://www.youtube.com/watch?v=lJzybEXmIj0&list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac)
+- Dana Gioia's writing advice parts [one](https://youtu.be/apxY9yKfk5E?si=2WT_RVrNJAQJFwG1), [two](https://youtu.be/1yVCGenrxNo?si=vmmwVc6scicjexyf), [three](https://youtu.be/xdENvS4YZvE?si=mopGVwQ5k_NAgxTb), [four](https://youtu.be/nR7ZNvbwkXo?si=TP3f5l-IkX5BixFO), [five](https://youtu.be/fpqZxROLk8k?si=mKdSnKcs9I9MA9Un), and [six](https://youtu.be/WvIKZHYkBlo?si=sE1fiVHkrEOOj_u1).
+
+Did not watch much YouTube this year! Not going to consciously do anything about that next year.
+
 ### Albums
 Albums on rotation in 2024
 - Rockin' the Suburbs - Ben Folds ([Spotify](https://open.spotify.com/album/2dBujXNmYf1xnNqVvmtezB?si=QyKt0V45SzC-oHfXFJE2uQ))
@@ -73,11 +79,16 @@ Albums on rotation in 2024
 - At The Right Time - Rasmus Sørensen ([Bandcamp](https://rasmussorensen.bandcamp.com/album/at-the-right-time), [Spotify](https://open.spotify.com/album/22KHGvZnXNVv4O0npI3SrJ?si=HPfy6TESRiqQGC5_omygkA))
 - In These Times - Makaya McCraven ([Bandcamp](https://intlanthem.bandcamp.com/album/in-these-times), [Spotify](https://open.spotify.com/album/6OPYeQwXhmkcaSuh6fUTXA?si=8Iq9k1r2QYGNpWaQPiPXvw))
 - The Way Out of Easy - Jeff Parker IVtet ([Bandcamp](https://intlanthem.bandcamp.com/album/the-way-out-of-easy), [Spotify](https://open.spotify.com/album/3tt6MJP7miMmlagnTHZEyq?si=QhR2s6HYRvOzR-S49csaLA))
+
+Honourable mention to Sabrina Carpenter, because I have loved Short 'n' Sweet, even in spite of Spotify forcing it down my throat. 
+
 ### Other listens
 I am not much of a podcast-listener but thought these ones rocked
 - [Richard Butler - Nuclear Diplomacy at the End of History](https://josephnoelwalker.com/richard-butler-160/) - The Joe Walker Podcast
 - [Dropping Out With Sam Reich](https://www.youtube.com/watch?v=jjw-zjLOXDI) - Roll for Persuasion
 - [Microsoft Volume I](https://www.acquired.fm/episodes/microsoft) and [II](https://www.acquired.fm/episodes/microsoft-volume-ii), and [Renaissance Technologies](https://www.acquired.fm/episodes/renaissance-technologies) - Acquired
+
+
 ### Recipes
 Things I have cooked the most, or that have been very special, or that have just been really good:
 - Yotam Ottolenghi's Chicken with Miso, Ginger and Lime from [Simple](https://bookshop.org/p/books/ottolenghi-simple-a-cookbook-yotam-ottolenghi/12838994?ean=9781607749165), though online [here](https://nothingbutonions.com/2020/05/chicken-with-miso-ginger-and-lime/). Great weeknight dinner, super easy in a dutch oven.
