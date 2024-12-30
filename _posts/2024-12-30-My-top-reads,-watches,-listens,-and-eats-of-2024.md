@@ -22,6 +22,7 @@ My favourite books I read this year, specifically those that are liable to be re
 Still cooking on [Thus Spoke Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm) and [The Ethics of Ambiguity](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/index.htm). Suffering from too-many-books---have made a gentle list for next year. Still, I am always keen for recommendations!!
 ### Poetry
 > "But, I will say this, it does something, doesn’t it? Poetry. It does something to your brain. Pokes a finger in and wiggles around inside it." ([Hari Berrow](https://hariberrow.substack.com/p/hi-im-hari-i-read-a-poem-and-now))
+
 - ["Traveler, your footprints"](https://www.poetryfoundation.org/poems/58815/traveler-your-footprints) by Antonio Machado
 - ["The Art of Disappearing"](https://anthonywilsonpoetry.com/2014/07/22/lifesaving-poems-naomi-shihab-nyes-the-art-of-disappearing/) by Naomi Shihab Nye
 - ["Permanent Press"](https://www.poetryfoundation.org/poetrymagazine/browse?volume=185&issue=5&page=17) by Alice Friman (I loved you then / in the old way of longing. Four wars / nine recessions, ten presidents: patches.)
