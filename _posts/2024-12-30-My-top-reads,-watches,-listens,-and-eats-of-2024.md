@@ -5,7 +5,7 @@ tags:
 ---
 2024 was a big year. Weddings, funerals, big changes, small changes, new horizons, rest, great books, great music, etc. Every few months I look back at myself from 3 months ago and I do not recognise her. 
 
-I am delighted by how much great stuff---knowledge, media, culture, music, opinion, food, history, personality---there is to imbibe. The more I read, the more there is to read; the more I listen, the more there is to hear; the more I think, the more there is to think. You could glut yourself on it---part of why creation is oh-so important. Good lesson for the year. 
+I am delighted by how much great stuff---knowledge, media, culture, music, opinion, food, history, personality---there is to imbibe. The more I read, the more there is to read; the more I listen, the more there is to hear; the more I think, the more there is to consider and dream up. You could glut yourself on it---part of why creation is oh-so important. Good lesson for the year. 
 
 Anyway, these are the best things I read/watched/listened to/ate this year. I consumed a bunch of crap, but this is what I'd like to remember!
 ### {A} Books
