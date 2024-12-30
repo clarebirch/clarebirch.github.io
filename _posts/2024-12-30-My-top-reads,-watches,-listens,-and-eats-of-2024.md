@@ -49,7 +49,7 @@ The Poetry Foundation continues to be a source of great joy; I am very glad it e
 
 Cannot stop reading the first; keep coming back to it. The third is magic. The seventh, foundational. The final one was important to changing my view on whether and in what ways it is worth working on the impacts of new-gen AI on society.
 
-Hard to cut these down to most interesting/impactful for me. Strong runners up. Wasn't too enamoured with anything that hit the Twitter feeds very hard, though [Ruxandra's Substack](https://www.writingruxandrabio.com/) hit a very impressive and inspiring stride this year! I also just didn't keep track of what I was reading online until ~September, which is not a good move. Starting to use [Raindrop](https://raindrop.io/) was a bit of a gamechanger.
+Hard to cut these down to most interesting/impactful for me. Strong runners up. Wasn't too enamoured with anything that hit the Twitter feeds very hard, though [Ruxandra's Substack](https://www.writingruxandrabio.com/) hit a very impressive and inspiring stride this year! I also just didn't keep track of what I was reading online until ~September, which is not a good move. Starting to use [Raindrop](https://raindrop.io/) was a gamechanger---I keep a [Public Personal Library](https://raindrop.io/clare-j-birch/public-personal-library-47164316), if you're curious.
 ### {D} Youtube vids
 Sesame Street: Herbie Hancock Makes Sounds
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oKoisNv1ftw?si=oupEoGMbTUYreNXt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
