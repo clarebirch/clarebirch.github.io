@@ -5,8 +5,8 @@ tags:
 ---
 2024 was a big year. Weddings, funerals, big changes, small changes, new horizons, rest, great books, great music, etc. Every few months I look back at myself from 3 months ago and I do not recognise her. I am delighted by how much great stuff---knowledge, media, culture, music, opinion, food, history, personality---there is to imbibe. The more I read, the more there is to read; the more I listen, the more there is to hear; the more I think, the more there is to think. You could glut yourself on it---part of why creation is oh-so important. Good lesson for the year. 
 
-Anyway, these are the best things I read/watched/listened to/ate this year. I consumed a bunch of crap, but this is what I'd like to remember.
-### Books
+Anyway, these are the best things I read/watched/listened to/ate this year. I consumed a bunch of crap, but this is what I'd like to remember!
+### {A} Books
 My favourite books I read this year, specifically those that are liable to be reread
 - [The Fellowship of the Ring](https://bookshop.org/p/books/the-fellowship-of-the-ring-the-lord-of-the-rings-part-one-j-r-r-tolkien/16648293?ean=9780547928210) - J. R. R. Tolkien (r)
 - [The Sovereignty of Good](https://bookshop.org/p/books/the-sovereignty-of-good-iris-murdoch/8162328?ean=9780415253994) - Iris Murdoch (r)
@@ -20,7 +20,7 @@ My favourite books I read this year, specifically those that are liable to be re
 - [The Scent of Time](https://www.transcript-verlag.de/shopMedia/service_media/transcript/rights/1157_sample_translation_scentoftime.pdf) and [The Burnout Society](https://www.sup.org/books/theory-and-philosophy/burnout-society)- Byung-Chul Han
 
 Still cooking on [Thus Spoke Zarathustra](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm) and [The Ethics of Ambiguity](https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/index.htm). Suffering from too-many-books---have made a gentle list for next year. Still, I am always keen for recommendations!!
-### Poetry
+### {B} Poetry
 > 
 > "But, I will say this, it does something, doesn’t it? Poetry. It does something to your brain. Pokes a finger in and wiggles around inside it." ([Hari Berrow](https://hariberrow.substack.com/p/hi-im-hari-i-read-a-poem-and-now))
 > 
@@ -33,7 +33,7 @@ Still cooking on [Thus Spoke Zarathustra](https://www.gutenberg.org/files/1998/1
 - Shakespeare's sonnets :)
 
 The Poetry Foundation continues to be a source of great joy; I am very glad it exists.
-### Written materials on the internet
+### {C} Written materials on the internet
 - [Letter from Tolkien to Auden, 1955](https://www.tolkienestate.com/letters/letter-to-the-poet-w-h-auden-7-jun-1955/)
 - [Angels in Indiana](http://www.inspirationpeak.com/cgi-bin/stories.cgi?record=119) - Author Unknown
 - [All This I Did Without You](https://www.bingqiangao.com/poetry/all-this-i-did-without-you) - Gerald Durrell to Lee McGeorge
@@ -45,7 +45,7 @@ The Poetry Foundation continues to be a source of great joy; I am very glad it e
 - [Mr. and Mrs. Psmith's Bookshelf](https://www.thepsmiths.com/) *exceedingly* good, occasionally acerbic, reviews.
 
 Hard to cut these down to most interesting for me this year. Strong runners up. Wasn't too enamoured with anything that hit the Twitter feeds very hard, though [Ruxandra's Substack](https://www.writingruxandrabio.com/) hit a very impressive stride this year. 
-### Youtube vids
+### {D} Youtube vids
 Sesame Street: Herbie Hancock Makes Sounds
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oKoisNv1ftw?si=oupEoGMbTUYreNXt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -67,7 +67,7 @@ And some series:
 
 Did not watch much YouTube this year! Not going to consciously do anything about that next year.
 
-### Albums
+### {E} Albums
 Albums on rotation in 2024
 - Rockin' the Suburbs - Ben Folds ([Spotify](https://open.spotify.com/album/2dBujXNmYf1xnNqVvmtezB?si=QyKt0V45SzC-oHfXFJE2uQ))
 - Tales from Terra Firma - Stornoway ([Spotify](https://open.spotify.com/album/1kuZ3asY6rhdOppRNZpDkY?si=lMqbfxY6SgeUU3gMjdrKCQ))
@@ -82,14 +82,14 @@ Albums on rotation in 2024
 
 Honourable mention to Sabrina Carpenter, because I have loved Short 'n' Sweet, even in spite of Spotify forcing it down my throat. 
 
-### Other listens
+### {F} Other listens
 I am not much of a podcast-listener but thought these ones rocked
 - [Richard Butler - Nuclear Diplomacy at the End of History](https://josephnoelwalker.com/richard-butler-160/) - The Joe Walker Podcast
 - [Dropping Out With Sam Reich](https://www.youtube.com/watch?v=jjw-zjLOXDI) - Roll for Persuasion
 - [Microsoft Volume I](https://www.acquired.fm/episodes/microsoft) and [II](https://www.acquired.fm/episodes/microsoft-volume-ii), and [Renaissance Technologies](https://www.acquired.fm/episodes/renaissance-technologies) - Acquired
 
 
-### Recipes
+### {G} Recipes
 Things I have cooked the most, or that have been very special, or that have just been really good:
 - Yotam Ottolenghi's Chicken with Miso, Ginger and Lime from [Simple](https://bookshop.org/p/books/ottolenghi-simple-a-cookbook-yotam-ottolenghi/12838994?ean=9781607749165), though online [here](https://nothingbutonions.com/2020/05/chicken-with-miso-ginger-and-lime/). Great weeknight dinner, super easy in a dutch oven.
 - Nagi's (ie. Recipe Tin Eats ie. Australia's hero) canned tuna pasta [here](https://www.recipetineats.com/canned-tuna-pasta/) ; if you add olives and diced tomatoes you have a nice little puttanesca (with tuna, which may be a heresy, unsure)
