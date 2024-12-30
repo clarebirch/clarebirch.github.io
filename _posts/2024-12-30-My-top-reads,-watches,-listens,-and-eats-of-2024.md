@@ -45,8 +45,11 @@ The Poetry Foundation continues to be a source of great joy; I am very glad it e
 - ["A Multicomponent Conceptualization of Authenticity: Theory and Research"](https://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/The%20Authenticity%20Inventory.pdf), Kernis and Goldman, Advances in Experimental Social Psychology, 2006
 - ["EASE: Examination of Anomalous Self-Experience"](https://www.vestreviken.no/siteassets/documents/Helsefaglig/Selvforstyrrelser/Original-avhandling-om-EASE---Engelsk.pdf), Parnas et al., Psychopathology, 2005
 - [Mr. and Mrs. Psmith's Bookshelf](https://www.thepsmiths.com/) *exceedingly* good, occasionally acerbic, reviews.
+- [How to be a wise optimist about science and technology?](https://michaelnotebook.com/optimism/index.html) - Michael Nielsen
 
-Hard to cut these down to most interesting for me this year. Strong runners up. Wasn't too enamoured with anything that hit the Twitter feeds very hard, though [Ruxandra's Substack](https://www.writingruxandrabio.com/) hit a very impressive stride this year. 
+Hard to cut these down to most interesting/impactful for me. Cannot stop reading the first; keep coming back to it. The third is magic. The seventh, foundational. The final one was important to changing my view on whether and in what ways it is worth working on the impacts of new-gen AI on society.
+
+Strong runners up. Wasn't too enamoured with anything that hit the Twitter feeds very hard, though [Ruxandra's Substack](https://www.writingruxandrabio.com/) hit a very impressive stride this year. 
 ### {D} Youtube vids
 Sesame Street: Herbie Hancock Makes Sounds
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oKoisNv1ftw?si=oupEoGMbTUYreNXt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
