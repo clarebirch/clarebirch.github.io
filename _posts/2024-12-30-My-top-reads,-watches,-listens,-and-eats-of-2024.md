@@ -3,9 +3,9 @@ layout: post
 tags:
   - yawyr
 ---
-2024 was a big year. Funerals, weddings, big changes, small changes, new horizons, rest, great books, great music, etc. Entire step-change in existence. 
+2024 was a big year. Weddings, funerals, big changes, small changes, new horizons, rest, great books, great music, etc. Every few months I look back at myself from 3 months ago and I do not recognise her. I am delighted by how much great stuff---knowledge, media, culture, music, opinion, food, history, personality---there is to imbibe. The more I read, the more there is to read; the more I listen, the more there is to hear; the more I think, the more there is to think. You could glut yourself on it---part of why creation is oh-so important. Good lesson for the year. 
 
-These are the best things I read/watched/listened to/ate this year. I consumed a bunch of crap, but this is what I'd like to remember.
+Anyway, these are the best things I read/watched/listened to/ate this year. I consumed a bunch of crap, but this is what I'd like to remember.
 ### Books
 My favourite books I read this year, specifically those that are liable to be reread
 - [The Fellowship of the Ring](https://bookshop.org/p/books/the-fellowship-of-the-ring-the-lord-of-the-rings-part-one-j-r-r-tolkien/16648293?ean=9780547928210) - J. R. R. Tolkien (r)
@@ -31,15 +31,20 @@ Still cooking on [Thus Spoke Zarathustra](https://www.gutenberg.org/files/1998/1
 - ["Blues for Almost Forgotten Music"](https://www.poetryfoundation.org/poems/54418/blues-for-almost-forgotten-music) by Roxane Beth Johnson
 - ["Forest Picture"](https://voetica.com/poem/7044), ["That sanity be kept"](https://ramblingatthebridgehead.wordpress.com/2021/07/11/that-sanity-be-kept-by-dylan-thomas/), ["Vision and Prayer"](https://voetica.com/poem/5555), and ["Fern Hill"](https://voetica.com/poem/5555) by Dylan Thomas (I have been reading through [this](https://pushkinpress.com/book/out-of-chaos-comes-bliss/) Pushkin Press selection, curated by [Cerys Matthews](https://cerysmatthews.co.uk/)).
 - Shakespeare's sonnets :)
+
+The Poetry Foundation continues to be a source of great joy; I am very glad it exists.
 ### Written materials on the internet
 - [Letter from Tolkien to Auden, 1955](https://www.tolkienestate.com/letters/letter-to-the-poet-w-h-auden-7-jun-1955/)
-- [Angels in Indiana](http://www.inspirationpeak.com/cgi-bin/stories.cgi?record=119), Author Unknown
+- [Angels in Indiana](http://www.inspirationpeak.com/cgi-bin/stories.cgi?record=119) - Author Unknown
 - [All This I Did Without You](https://www.bingqiangao.com/poetry/all-this-i-did-without-you) - Gerald Durrell to Lee McGeorge
 - [The MacArthur Foundation's Big Bet Guiding Questions](https://www.macfound.org/programs/bigbets/guiding-questions)
 - [How VCs Become Assholes](https://www.nfx.com/post/how-vcs-become-assholes) - Omri Drory at Nfx
 - [Ken Klippenstein's post-April Substack](https://www.kenklippenstein.com/)
 - ["A Multicomponent Conceptualization of Authenticity: Theory and Research"](https://depts.washington.edu/uwcssc/sites/default/files/hw00/d40/uwcssc/sites/default/files/The%20Authenticity%20Inventory.pdf), Kernis and Goldman, Advances in Experimental Social Psychology, 2006
 - ["EASE: Examination of Anomalous Self-Experience"](https://www.vestreviken.no/siteassets/documents/Helsefaglig/Selvforstyrrelser/Original-avhandling-om-EASE---Engelsk.pdf), Parnas et al., Psychopathology, 2005
+- [Mr. and Mrs. Psmith's Bookshelf](https://www.thepsmiths.com/) *exceedingly* good, occasionally acerbic, reviews.
+
+Hard to cut these down to most interesting for me this year. Strong runners up. Wasn't too enamoured with anything that hit the Twitter feeds very hard, though [Ruxandra's Substack](https://www.writingruxandrabio.com/) hit a very impressive stride this year. 
 ### Youtube vids
 Sesame Street: Herbie Hancock Makes Sounds
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oKoisNv1ftw?si=oupEoGMbTUYreNXt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -74,8 +79,9 @@ I am not much of a podcast-listener but thought these ones rocked
 - [Dropping Out With Sam Reich](https://www.youtube.com/watch?v=jjw-zjLOXDI) - Roll for Persuasion
 - [Microsoft Volume I](https://www.acquired.fm/episodes/microsoft) and [II](https://www.acquired.fm/episodes/microsoft-volume-ii), and [Renaissance Technologies](https://www.acquired.fm/episodes/renaissance-technologies) - Acquired
 ### Recipes
-Things I have cooked the most, or that have been very special, or that have surprised me in some way:
+Things I have cooked the most, or that have been very special, or that have just been really good:
 - Yotam Ottolenghi's Chicken with Miso, Ginger and Lime from [Simple](https://bookshop.org/p/books/ottolenghi-simple-a-cookbook-yotam-ottolenghi/12838994?ean=9781607749165), though online [here](https://nothingbutonions.com/2020/05/chicken-with-miso-ginger-and-lime/). Great weeknight dinner, super easy in a dutch oven.
-- Nagi's (ie. Recipe Tin Eats ie. Australian home hero) canned tuna pasta [here](https://www.recipetineats.com/canned-tuna-pasta/) ; if you add olives and diced tomatoes you have a nice little puttanesca (with tuna, which may be a heresy, unsure)
+- Nagi's (ie. Recipe Tin Eats ie. Australia's hero) canned tuna pasta [here](https://www.recipetineats.com/canned-tuna-pasta/) ; if you add olives and diced tomatoes you have a nice little puttanesca (with tuna, which may be a heresy, unsure)
 - Ottolenghi's Sweet Summer Salad ([here](https://ottolenghi.co.uk/pages/recipes/sweet-summer-salad)) is an unbridled winner, beloved by every dinner-party guest. Looks beautiful and tastes just as good. Surprisingly easy, especially if you buy pre-cooked beets!
 - Stephanie Alexander's chicken with red-wine vinegar and tomato from The Cook's Companion, online [here](https://www.stephaniealexander.com.au/what-to-cook/recipes/chicken-casserole-red-wine-vinegar-tomato/).
+- Stephanie Alexander's lemon tart from The Cook's Companion, online [here](https://mybeachkitchen.wordpress.com/2014/07/29/stephanie-alexander-s-lemon-tart/).
