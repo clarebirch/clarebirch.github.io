@@ -31,7 +31,7 @@ Still cooking on [Thus Spoke Zarathustra](https://www.gutenberg.org/files/1998/1
 - ["The Art of Disappearing"](https://anthonywilsonpoetry.com/2014/07/22/lifesaving-poems-naomi-shihab-nyes-the-art-of-disappearing/) by Naomi Shihab Nye
 - ["Permanent Press"](https://www.poetryfoundation.org/poetrymagazine/browse?volume=185&issue=5&page=17) by Alice Friman (I loved you then / in the old way of longing. Four wars / nine recessions, ten presidents: patches.)
 - ["Blues for Almost Forgotten Music"](https://www.poetryfoundation.org/poems/54418/blues-for-almost-forgotten-music) by Roxane Beth Johnson
-- ["Forest Picture"](https://voetica.com/poem/7044), ["That sanity be kept"](https://ramblingatthebridgehead.wordpress.com/2021/07/11/that-sanity-be-kept-by-dylan-thomas/), ["Vision and Prayer"](https://voetica.com/poem/5555), and ["Fern Hill"](https://voetica.com/poem/5555) by Dylan Thomas (I have been reading through [this](https://pushkinpress.com/book/out-of-chaos-comes-bliss/) Pushkin Press selection, curated by [Cerys Matthews](https://cerysmatthews.co.uk/)).
+- ["Forest Picture"](https://voetica.com/poem/7044), ["That sanity be kept"](https://ramblingatthebridgehead.wordpress.com/2021/07/11/that-sanity-be-kept-by-dylan-thomas/), ["Vision and Prayer"](https://voetica.com/poem/5555), and ["Fern Hill"](https://voetica.com/poem/3807) by Dylan Thomas (I have been reading through [this](https://pushkinpress.com/book/out-of-chaos-comes-bliss/) Pushkin Press selection, curated by [Cerys Matthews](https://cerysmatthews.co.uk/)).
 - Shakespeare's sonnets :)
 
 The Poetry Foundation continues to be a source of great joy; I am very glad it exists.
