@@ -9,7 +9,10 @@ I am delighted by how much great stuff---knowledge, media, culture, music, opini
 
 Anyway, these are the best things I read/watched/listened to/ate this year. I consumed a bunch of crap, but this is what I'd like to remember!
 ### {A} Books
+UPDATE at 2025/01/02: The Best Minds and Acid for the Children were my favourite books of 2024, but I thought I'd read them in 2023, so I didn't include them! I've fixed this. 
 My favourite books I read this year, specifically those that are liable to be reread
+- [The Best Minds](https://bookshop.org/p/books/the-best-minds-a-story-of-friendship-madness-and-the-tragedy-of-good-intentions-jonathan-rosen/18745743) - Jonathan Rosen
+- [Acid for the Children: A Memoir](https://bookshop.org/p/books/acid-for-the-children-a-memoir-flea/7292377) - Flea
 - [The Fellowship of the Ring](https://bookshop.org/p/books/the-fellowship-of-the-ring-the-lord-of-the-rings-part-one-j-r-r-tolkien/16648293?ean=9780547928210) - J. R. R. Tolkien (r)
 - [The Sovereignty of Good](https://bookshop.org/p/books/the-sovereignty-of-good-iris-murdoch/8162328?ean=9780415253994) - Iris Murdoch (r)
 - [Cell Biology by the Numbers](https://www.taylorfrancis.com/books/mono/10.1201/9780429258770/cell-biology-numbers-ron-milo-rob-phillips) - Rob Phillips and Ron Milo
