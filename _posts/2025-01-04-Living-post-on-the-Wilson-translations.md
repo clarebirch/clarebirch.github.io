@@ -2,6 +2,8 @@
 layout: post
 title: On the Wilson Translations
 ---
+Last updated: 2025-01-04
+
 Emily Wilson's translations of the Odyssey and the Iliad are great contributions to the canon. 
 
 - There is no perfect or "true" translation. However, we are fortunate to have many translations of ancient texts; they allow us to consider the language and literature from many vantage points. You should read many translations. 
