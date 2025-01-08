@@ -8,14 +8,19 @@ entries:
       - title: helping founders tell the truth at Encour, a new kind of strategic comms firm
         url: https://encour.co
         entries: 
-        - title: working for Jessy is a masterclass in execution, integrity, talent spotting, and disagreeing well. If you're a founder who wants a no-bullshit approach to comms, and isn't afraid to be bold, you should talk to Encour. 
+        - title: If you're a founder who wants a no-bullshit approach to comms, and isn't afraid to be bold, you should talk to Encour. Working for Jessy is a masterclass in execution and integrity!
       - title: writing at Clarevoyant and also here
         url: https://clarevoyant.substack.com
-      - title: my current independent research interests are (1) the various ways we understand schizophrenia (scientific, literary, etc); (2) phenomenology of programs in digital space; (3) how we simulate complex (biological) systems and how that can be used to increase the rate/decrease the cost of clinical trials; (4) silly little spreadsheet noodlings on building on top of the solar experience/cost curve (a yummy exponential you should be paying attention to)
       - title: helping the Australian Government build its quantum industry as a member of the National Quantum Advisory Committee
         url: https://www.minister.industry.gov.au/ministers/husic/media-releases/national-quantum-advisory-committee
         entries:
           - title: we released <a href="https://www.industry.gov.au/publications/national-quantum-strategy" target="_blank" rel="noopener noreferrer">Australia's first National Quantum Strategy</a> in 2023, which laid the groundwork for >$1B in investment into quantum things by the Commonwealth and State Governments.
+  - title: my current independent research interests are 
+    entries:
+      - title: the various ways we understand schizophrenia (scientific, literary, etc)
+      - title: phenomenology of programs in digital space
+      - title: how we simulate complex (biological) systems and how that can be used to increase the rate/decrease the cost of clinical trials
+      - title: silly little spreadsheet noodlings on building on top of the solar experience/cost curve (a yummy exponential you should be paying attention to)
   - title: things I've done
     entries:
       - title: invested in frontier tech at Blackbird
