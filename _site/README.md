@@ -1,1 +1,0 @@
-This is my personal site, based on the Jekyll theme [no style please](https://github.com/riggraz/no-style-please) by [riggraz](https://riggraz.dev/)
