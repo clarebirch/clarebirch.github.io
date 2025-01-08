@@ -246,6 +246,7 @@
   "active": "bd9e47ba1bbf14e0",
   "lastOpenFiles": [
     "_includes/no-style-please.scss",
+    "_includes/no-style-please.css",
     "_sass/no-style-please.scss",
     "_site/assets/js/mouse_coords.js",
     "_site/assets/css/main.css",
@@ -255,7 +256,6 @@
     "_site/you-are-what-you-read-4.html",
     "_site/you-are-what-you-read-3.html",
     "_site/you-are-what-you-read-2.html",
-    "_site/you-are-what-you-read-1.html",
     "_site/logo.png",
     "_site/README.md",
     "archive.md",
