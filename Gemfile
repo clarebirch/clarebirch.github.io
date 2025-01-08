@@ -6,5 +6,5 @@ gem "kramdown-parser-gfm"
 
 gemspec
 gem "webrick", "~> 1.8"
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 gem "jekyll-feed"
