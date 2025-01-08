@@ -5,7 +5,7 @@ title: Foundry
 
 Foundry is a granted ($1k) preaccelerator and competition ($5k cash prize) for frontier-tech startups.
 
-It exists to empower Australian and Kiwi PhD students and EMCRs to start or join interesting companies. We don't believe in "research commercialisation". We believe in research talent.
+It exists to empower Australian and Kiwi PhD students and EMCRs to start or join interesting companies. We don't believe in "research commercialisation". We believe in research *talent*.
 
 We've run one Foundry cohort each year since 2022. We have an NPS > 70. The companies that have come out of Foundry have raised from top-tier VCs (including Blackbird), been headhunted by YC, and gone on to specialist accelerators like Mass Robotics'.
 

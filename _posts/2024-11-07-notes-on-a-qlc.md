@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: A public record of my quarter-life crisis
 ---
 Originally posted: 17 September 2024

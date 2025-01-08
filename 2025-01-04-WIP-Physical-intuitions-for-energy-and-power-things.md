@@ -38,7 +38,7 @@ Anchor points for power intuitions:
 - **Kilowatts (1000s of watts):** oven/stove (2-5 kW), space heater (1.5 kW), heat pump (0.5-7.5 kW), clothes dryer (1.5-5 kW), Dyson Supersonic hairdryer (1.6 kW, about average), EV charger (7.2 kW), average American residential home draw ([1.2 kW](https://www.eia.gov/tools/faqs/faq.php))
 	- **10s of kW:** Tesla home Wall Connector output (22 kW) and Powerwall On-Grid and Backup (up to 10 kW)
 	- **100s of kW:** Tesla Supercharger output (250 kW): 
-- Megawatts (1000s of kilowatts):
+- Megawatts (1000s of kilowatts): average data centre (5-10 MW, via the [IEA](https://www.iea.org/commentaries/what-the-data-centre-and-ai-boom-could-mean-for-the-energy-sector)) 
 	- 10s of MW: 
-	- 100s of MW: 
+	- 100s of MW: hyperscale data centre (100+ MW, via the [IEA](https://www.iea.org/commentaries/what-the-data-centre-and-ai-boom-could-mean-for-the-energy-sector))
 - Gigawatts (1000s of megawatts): 

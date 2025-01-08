@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quarter-life-crisis.md",
+                "file": "_posts/2024-11-07-notes-on-a-qlc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quarter-life-crisis"
+              "title": "2024-11-07-notes-on-a-qlc"
             }
           },
           {
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-04-Living-post-on-the-Wilson-translations.md",
+                "file": "2025-01-04-WIP-Physical-intuitions-for-energy-and-power-things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-04-Living-post-on-the-Wilson-translations"
+              "title": "2025-01-04-WIP-Physical-intuitions-for-energy-and-power-things"
             }
           },
           {
@@ -243,28 +243,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd9e47ba1bbf14e0",
+  "active": "cedc0277e0d3c47a",
   "lastOpenFiles": [
-    "no-style-please.gemspec",
-    "2025-01-04-WIP-Physical-intuitions-for-energy-and-power-things.md",
-    "_posts/2025-01-04-Living-post-on-the-Wilson-translations.md",
-    "foundry.md",
-    "List of lists of lists.md",
     "archive.md",
+    "2025-01-04-WIP-Physical-intuitions-for-energy-and-power-things.md",
+    "my-time-at-blackbird.md",
+    "tbr.md",
+    "README.md",
+    "index.md",
+    "library.md",
+    "foundry.md",
+    "_qlc-reflections-archive/2024-09-18.md",
+    "_posts/2024-11-07-notes-on-a-qlc.md",
+    "List of lists of lists.md",
+    "_posts/2025-01-04-Living-post-on-the-Wilson-translations.md",
+    "no-style-please.gemspec",
     "_posts/2024-12-30-Favourites-of-2024.md",
-    "quarter-life-crisis.md",
     "_posts/2024-12-01-Quarter-Life-Crisis-Chapter-One.md",
     "_posts/2022-04-02-unlearning-perfectionism.md",
-    "tbr.md",
-    "index.md",
     "TBR.md",
-    "my-time-at-blackbird.md",
-    "_qlc-reflections-archive/2024-09-18.md",
     "_qlc-reflections-archive",
     "_posts/2024-09-19-reflections-on-new-york.md",
     "_posts/Untitled.md",
     "Pasted image 20240917125925.png",
-    "_site/README.md",
-    "README.md"
+    "_site/README.md"
   ]
 }
