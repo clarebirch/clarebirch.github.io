@@ -53,10 +53,14 @@
             "id": "84b7d2ad7bb2fa6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "my-time-at-blackbird.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "my-time-at-blackbird"
             }
           },
           {
@@ -211,8 +215,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84b7d2ad7bb2fa6e",
+  "active": "bd9e47ba1bbf14e0",
   "lastOpenFiles": [
+    "archive.md",
+    "foundry.md",
+    "index.md",
     "_site/assets/js/mouse_coords.js",
     "_site/assets/css/main.css.map",
     "_site/assets/css/main.css",
@@ -223,7 +230,6 @@
     "_site/you-are-what-you-read-3.html",
     "_site/you-are-what-you-read-2.html",
     "_site/you-are-what-you-read-1.html",
-    "_site/unlearning-perfectionism.html",
     "_site/logo.png",
     "_site/README.md",
     "_posts/2025-01-04-Living-post-on-the-Wilson-translations.md",
@@ -246,9 +252,6 @@
     "my-time-at-blackbird.md",
     "logo.png",
     "library.md",
-    "index.md",
-    "foundry.md",
-    "archive.md",
     "2025-01-04-WIP-Physical-intuitions-for-energy-and-power-things.md",
     "tbr.md",
     "_qlc-reflections-archive/2024-09-18.md",

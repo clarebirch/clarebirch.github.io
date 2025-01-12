@@ -2,7 +2,10 @@
 layout: page
 title: A brief summary of my time at Blackbird
 ---
-I was an Associate at [Blackbird](https://blackbird.vc) from 2021 to 2024. In that time, I:
+
+I was an Associate at [Blackbird](https://blackbird.vc) from 2021 to 2024. I would recommend the fund if you're a truly ambitious founder with a tie to Australia or New Zealand looking for investment. Blackbird is the best VC fund in the Antipodes by a long shot, not only in terms of returns (ha) but also in terms of investor integrity and founder-friendliness. They invest early, often into ideas and people that others will not. They care deeply about the founders and companies they back, and put that care to work through the most messy and difficult company-building situations. They are thoughtful about the impact they have on the world.
+
+In my time there, I:
 - Sourced 3 successful new investments, 
 - Ran point on 21 successful new and follow-on investments amounting to >$100M investment from pre-seed to post-Series D,
 - Did some work with LPs (e.g. for coinvestment opportunities), and portfolio support things (e.g. board shadowing work and fundraising support), and
