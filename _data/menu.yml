@@ -4,36 +4,26 @@
 entries:
   - title: things I'm doing (at January 2025)
     entries:
-      - title: building a new physics R&D org
+      - title: building a quantum R&D org
       - title: helping founders tell the truth at Encour, a new kind of strategic comms firm
         url: https://encour.co
-      - title: writing at Clarevoyant and also here
-        url: https://clarevoyant.substack.com
       - title: helping the Australian Government build its quantum industry as a member of the National Quantum Advisory Committee
         url: https://www.minister.industry.gov.au/ministers/husic/media-releases/national-quantum-advisory-committee
         entries:
           - title: we released <a href="https://www.industry.gov.au/publications/national-quantum-strategy" target="_blank" rel="noopener noreferrer">Australia's first National Quantum Strategy</a> in 2023, which laid the groundwork for >$1B in investment into quantum things by the Commonwealth and State Governments.
-  - title: my current independent research interests are 
-    entries:
-      - title: the various ways we understand schizophrenia (scientific, literary, etc)
-      - title: phenomenology of programs in digital space
-      - title: how we simulate complex (biological) systems and how that can be used to increase the rate/decrease the cost of clinical trials
-      - title: silly little spreadsheet noodlings on building on top of the solar experience/cost curve (a yummy exponential you should be paying attention to)
   - title: things I've done
     entries:
       - title: invested in frontier tech at Blackbird
         url: my-time-at-blackbird.html
-        entries:
-          - title: if you are a young person with a creative bent or a passion project, you should check out the Blackbird Foundation's <a href="https://www.blackbird.foundation/protostars?mc_cid=6c81d05564" target="_blank" rel="noopener noreferrer">Protostars microgrant program</a>, which is run by <a href="https://theiagabatan.cargo.site/" target="_blank" rel="noopener noreferrer">Theia Gabatan</a> and <a href="https://www.linkedin.com/in/joelconnolly/" target="_blank" rel="noopener noreferrer">Joel Connolly</a>. It's a very special program and community. 
       - title: started and built Foundry, Blackbird's founder dev/preaccelerator program for PhD students and postdocs
         url: foundry.html
       - title: added some momentum at nonprofit DeadlyScience as first employee.
         url: https://deadlyscience.org.au/
         entries:
-          - title: While I was there, the team won the Eureka Prize (Australia's top national STEM award) for STEM Inclusion, thanks largely to the tireless work of Corey Tutt over several years. DeadlyScience does amazing work getting science books and resources to remote Indigenous schools and communities; I believe educational equity is extremely important, and their work deserves support, so you should donate. 
+          - title: While I was there, the team won the Eureka Prize (Australia's top national STEM award) for STEM Inclusion, thanks largely to the tireless work of Corey Tutt over several years. 
+          - title: DeadlyScience does great work getting science books and resources to remote Indigenous schools and communities; I believe educational equity is extremely important, and their work deserves support, so you should donate. 
       - title: co-created/led with Genevieve Firmer (legend) the 2021 Harry Messel International Science School's chemistry stream with a workshop, "Is the universe ruled by chaos?"
         url: https://x.com/clarejtbirch/status/1414850606032850948
-      - title: supervised some research projects for advanced undergrads at the University of Sydney (one on the intersection of nanoscience and art, another on Lie algebraic methods in quantum mechanics)
       - title: a bachelor of advanced science in chemistry and mathematics, with Honours and the University Medal in quantum simulation under Ivan Kassal, at the University of Sydney
         entries:
           - title: Ivan is a great researcher and supervisor with a wonderful group
@@ -41,7 +31,10 @@ entries:
           - title: a paper related to my hons work
             url: https://arxiv.org/abs/2012.01852
           - title: in general I really enjoyed my time at the University of Sydney and rate the academics there very highly. It's a great community. I loved being a part of it.
-      - title: was a high school teachers' aide in learning support
+          - title: i also did things like supervising advanced undergrads doing research, helping to start a student society, got elected in a student representative thing
+          - title: university is great if you're getting good at something you're passionate about while expanding your general knowledge base and learning how to work
+      - title: was a high school teachers' aide in learning support, a receptionist, a retail clerk, a waitress, and a Domino's pizza-slinger
+      - title: played a lot of bass guitar in various bands
   - title: blog posts
     post_list:
       limit: 5
@@ -56,6 +49,8 @@ entries:
     url: https://admonymous.com/cjtb
   - title: some places i haunt online
     entries:
+      - title: substack
+        url: https://clarevoyant.substack.com
       - title: twitter
         url: https://x.com/clarejtbirch
       - title: letterboxd
