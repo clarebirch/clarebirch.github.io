@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-14-Doing-vs-Optimising.md",
+                "file": "_posts/2025-01-13-Doing-vs-Optimising.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-14-Doing-vs-Optimising"
+              "title": "2025-01-13-Doing-vs-Optimising"
             }
           },
           {
@@ -245,7 +245,7 @@
     "_site/logo.png",
     "_site/README.md",
     "_posts/2025-01-04-Living-post-on-the-Wilson-translations.md",
-    "_posts/2025-01-14-Doing-vs-Optimising.md",
+    "_posts/2025-01-13-Doing-vs-Optimising.md",
     "_posts/2022-04-02-unlearning-perfectionism.md",
     "my-time-at-blackbird.md",
     "archive.md",
