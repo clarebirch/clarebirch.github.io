@@ -67,14 +67,10 @@
             "id": "8e23208dc9d6c977",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-01-13-Doing-vs-Optimising.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-01-13-Doing-vs-Optimising"
+              "title": "New tab"
             }
           },
           {
@@ -111,7 +107,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -231,6 +228,8 @@
   },
   "active": "8e23208dc9d6c977",
   "lastOpenFiles": [
+    "_posts/2025-01-30-Note-on-Pantheon.md",
+    "_posts/2025-01-30-Note-on-Pantheon",
     "_site/assets/css/main.css",
     "_site/assets/css/main.css.map",
     "_site/assets/js/mouse_coords.js",
@@ -240,8 +239,6 @@
     "_site/you-are-what-you-read-4.html",
     "_site/you-are-what-you-read-3.html",
     "_site/you-are-what-you-read-2.html",
-    "_site/you-are-what-you-read-1.html",
-    "_site/unlearning-perfectionism.html",
     "_site/logo.png",
     "_site/README.md",
     "_posts/2025-01-04-Living-post-on-the-Wilson-translations.md",
