@@ -2,17 +2,16 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: things I'm doing (at January 2025)
+  - title: things I'm doing (at February 2025)
     entries:
-      - title: building a quantum R&D org
-      - title: helping founders tell the truth at Encour, a new kind of strategic comms firm
-        url: https://encour.co
-      - title: helping the Australian Government build its quantum industry as a member of the National Quantum Advisory Committee
+      - title: building an R&D org that focuses on scaling next generation of advanced computing
+      - title: studying :)
+  - title: things I've done
+    entries:
+      - title: helped the Australian Government build its quantum industry as a member of the National Quantum Advisory Committee
         url: https://www.minister.industry.gov.au/ministers/husic/media-releases/national-quantum-advisory-committee
         entries:
           - title: we released <a href="https://www.industry.gov.au/publications/national-quantum-strategy" target="_blank" rel="noopener noreferrer">Australia's first National Quantum Strategy</a> in 2023, which laid the groundwork for >$1B in investment into quantum things by the Commonwealth and State Governments.
-  - title: things I've done
-    entries:
       - title: invested in frontier tech at Blackbird
         url: my-time-at-blackbird.html
       - title: started and built Foundry, Blackbird's founder dev/preaccelerator program for PhD students and postdocs
@@ -25,11 +24,12 @@ entries:
         entries:
           - title: Ivan is a great researcher and supervisor with a wonderful group
             url: https://www.kassal.group/
-          - title: a paper related to my hons work
+          - title: my honours thesis was on simulating chemical dynamics using an analog quantum simulator
             url: https://arxiv.org/abs/2012.01852
+          - title: it was part of the work that led to the first simulation of chemical dynamics on a quantum computer!
+            url: https://arxiv.org/abs/2409.04044
           - title: in general I really enjoyed my time at the University of Sydney and rate the academics there very highly. It's a great community. I loved being a part of it.
           - title: i also did things like supervising advanced undergrads doing research, helping to start a student society, got elected in a student representative thing
-          - title: university is great if you're getting good at something you're passionate about while expanding your general knowledge base and learning how to work
       - title: was a high school teachers' aide in learning support, a receptionist, a retail clerk, a waitress, and a Domino's pizza-slinger
       - title: played a lot of bass guitar in various bands
   - title: blog posts
