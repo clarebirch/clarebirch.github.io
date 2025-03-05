@@ -5,7 +5,7 @@ title: Note on Pantheon (the show)
 
 Pantheon is a two-season animated series based on a series of short stories by Ken Liu. I wrote this the night after we finished the second season.
 
-Pantheon is ostensibly *about* intelligence, but more about the politics of intelligence and existence than about ethics thereof, or even about consciousness. The first season handles the problem of private companies experimentally---and imperfectly---uploading individuals to the cloud (*via* sci-fi technologies that allow us to destructively scan brains). It handles the megalomaniacal tech visionary, the greedy technocapitalist, and eventually the world-power asymmetry approaches to the technology; the power of those that are uploaded (three initially, all with quite different outlooks). 
+Pantheon is ostensibly *about* intelligence, but more about the politics of intelligence and existence than about ethics thereof, or even about consciousness. The first season handles the problem of private companies experimentally---and imperfectly---uploading individuals to the cloud (*via* sci-fi technologies that allow us to destructively scan brains). It handles the megalomaniacal tech visionary, the greedy technocapitalist, and eventually the world-power asymmetry approaches to the technology, as well as exploring the concentrated power of those that are uploaded (three initially, all with quite different outlooks). 
 
 A billionaire-genius-tech-founder type secretly invents a way to upload humans to digital lives, but it is critically flawed; the beings erode as they compute. The character, "Holstrom", is a Jobs-like figure with an obvious nod to Bolstrom: cult of personality, dying of cancer, brilliant, punishing. 
 
