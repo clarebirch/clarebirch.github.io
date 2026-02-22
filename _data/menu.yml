@@ -2,12 +2,28 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: things I'm doing (at February 2025)
+  - title: things I'm doing (at February 2026)
     entries:
-      - title: building an R&D org that focuses on scaling next generation of advanced computing
-      - title: studying :)
+      - title: technical programs and operations-y things at Thinking Machines Lab
+        url: https://thinkingmachines.ai
+        entries:
+          - title: currently I make Tinker go internally and am responsible for our ecosystem/community build-out
+            url: https://thinkingmachines.ai/tinker
+          - title: I do a variety of things and work with a bunch of different people at Thinky. If you are interested in joining us in any capacity, I am a good person to talk to as a starting point!
+      - title: researching and investing in AI and frontier-tech companies, particularly those that are do next-gen energy/climate 3.0 and simulation-related things
+      - title: exploring new tech ideologies and neoprogressivism
+      - title: getting really good at finishing things and yoga
   - title: things I've done
     entries:
+      - title: took a ~sabbatical where I
+        entries:
+          - title: traveled a bit, wrote a bit
+          - title: did some PR things for Jessy
+            url: https://au.linkedin.com/in/jessyzwu
+          - title: accidentally became a chief of staff and helped build the initial strategy + ops for Emergence Quantum.
+            url: https://emergencequantum.com/
+            entries:
+              - title: EQ is a world-class contracting R&D org in the style of BBN. We work with private + public customers to solve the control hardware problems on the path to scaling quantum computers.
       - title: helped the Australian Government build its quantum industry as a member of the National Quantum Advisory Committee
         url: https://www.minister.industry.gov.au/ministers/husic/media-releases/national-quantum-advisory-committee
         entries:
@@ -31,7 +47,7 @@ entries:
           - title: in general I really enjoyed my time at the University of Sydney and rate the academics there very highly. It's a great community. I loved being a part of it.
           - title: i also did things like supervising advanced undergrads doing research, helping to start a student society, got elected in a student representative thing
       - title: was a high school teachers' aide in learning support, a receptionist, a retail clerk, a waitress, and a Domino's pizza-slinger
-      - title: played a lot of bass guitar in various bands
+      - title: played some bass guitar and read some books
   - title: blog posts
     post_list:
       limit: 5
@@ -40,8 +56,8 @@ entries:
       show_more_url: archive.html
   - title: my public personal library
     url: library.html
-#  - title: rss
-#    url: feed.xml
+  #  - title: rss
+  #    url: feed.xml
   - title: leave me anonymous feedback!
     url: https://admonymous.com/cjtb
   - title: some places i haunt online
