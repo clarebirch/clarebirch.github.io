@@ -1,13 +1,28 @@
 ---
 layout: default
 ---
+
 <header>
-  <h1>{{ site.title }}</h1>
-  {%-if site.theme_config.show_description-%}
+    <h1>{{ site.title }}</h1>
+    {%-if site.theme_config.show_description-%}
     <p>{{ site.description }}</p>
-  {%-endif-%}
+    {%-endif-%}
 </header>
 
-{%-include menu_item.html collection=site.data.menu.entries-%}
+{%-include menu_item.html collection=site.data.menu.entries-%} {{ content }}
 
-{{ content }}
+<p>
+    this site is part of the
+    <a href="https://matchamonday.net" target="_blank">matcha monday</a>
+    webring:
+</p>
+<span id="previous"></span> <span id="next"></span>
+
+<script type="module">
+    import { getRingNeighbors } from "https://matchamonday.net/webring.mjs";
+    const neighbors = getRingNeighbors("https://clarebir.ch");
+    document.getElementById("previous").innerHTML =
+        `<a href="${neighbors.previous.url}">← ${neighbors.previous.name}</a>`;
+    document.getElementById("next").innerHTML =
+        `<a href="${neighbors.next.url}">${neighbors.next.name} →</a>`;
+</script>
